@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+/* common */
+a, abbr, acronym, address, b, blockquote, big, body, center, caption, cite, code, command, dd, del, dfn, dl, div, dt, em, embed, fieldset, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, label, legend, li, object, ol, p, pre, q, s, samp, section, small, span, source, strike, strong, sub, sup, table, tbody, tfoot, thead, th, tr, u, ul, var{ margin:0; padding:0}
+h1,h2,h3,h4,h5,h6{font-size:100% }
+ol, ul{list-style:none}
+address, caption, cite, code, dfn, em, strong, th, var{font-style :normal; font-weight:normal}
+table{border-collapse:collapse; border-spacing:0}
+fieldset, img{border:0}
+img, input, button, select, textarea{ vertical-align:middle}
+caption, th{text-align:left }
+q:before, q:after{content :''} 
+.hidden{width:0; height:0; margin:0; padding:0; overflow:hidden; line-height:0; font-size:0; visibility:hidden; position:absolute; left:0; top:0}
+
+
+/* body */ 
+body{width:100%; overflow-x:hidden; overflow-y:auto; transform:skew(-0.001deg); color:#212121;}
+a, a:link, a:visited{text-decoration:none;}
+a:hover, a:active{text-decoration:none;}
+
+.h10 {clear:both; height:10px;}
+.h30 {clear:both; height:30px;}
+
+h1 {font-size:24px; text-align:left; font-family: 'S-CoreDream-7ExtraBold'; margin-bottom:60px;}
+h2 {font-size:16px; text-align:left; font-family: 'S-CoreDream-5Medium'; margin-bottom:30px; color:#808080;}
+h3 {font-size:16px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#212121; line-height:24px; margin-bottom:30px;}
+
+span.bold {font-family: 'S-CoreDream-7ExtraBold'; color:#212121}
+span.thin {font-family: 'S-CoreDream-3Light'; color:#212121}
+.img01 {text-align:left; margin-bottom:60px;}
+
+input.input_text01 {background-color:#fff; border:solid 2px #bfbfbf; text-align:left; padding-left:16px; width:324px; height:44px; font-size:16px;}
+input.input_text02 {background-color:#fff; border:none; border-bottom:solid 2px #bfbfbf; text-align:left; padding-left:16px; width:324px; height:44px;  font-size:16px;}
+input.input_text03 {background-color:#f7f7f7; border:solid 2px #bfbfbf; color:#808080; text-align:left; padding-left:16px; width:324px; height:44px; font-size:16px;}
+input.input_text04 {background-color:#f7f7f7; border:none; border-bottom:solid 2px #bfbfbf; text-align:left; padding-left:16px; width:324px; height:44px;  font-size:16px;}
+
+input::placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
+input::-webkit-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
+input:-ms-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
+
+/* font */
+@font-face {font-family: 'S-CoreDream-3Light'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'S-CoreDream-5Medium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff') format('woff'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'S-CoreDream-7ExtraBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-7ExtraBold.woff') format('woff'); font-weight: normal; font-style: normal;}
+
+
+#wrap {width:100%;}
+#wrap #top {width:100%; height:200px; text-align:center; margin:auto;}
+#wrap #contents {width:100%;}
+#wrap #contents .background {width:100%; padding:60px 0; background-color:#f0f0f0; margin:auto; text-align:center;}
+#wrap #contents .background:after {clear:both; display:block;  content:"";}
+
+#wrap #contents .background .colors {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .colors ul {width:100%; margin-bottom:60px;}
+#wrap #contents .background .colors ul:after {clear:both; display:block;  content:"";}
+#wrap #contents .background .colors ul li{width:160px; margin-right:24px; float:left;}
+#wrap #contents .background .colors ul li:nth-child(6) {margin-right:0;}
+#wrap #contents .background .colors ul li.txt {text-align:left; font-size:16px; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; padding-top:50px;}
+#wrap #contents .background .colors ul li p.palette01 {width:160px; height:120px; border-radius:10px; background-color:#ff6160}
+#wrap #contents .background .colors ul li p.palette02 {width:160px; height:120px; border-radius:10px; background-color:#eb4746}
+#wrap #contents .background .colors ul li p.palette03 {width:160px; height:120px; border-radius:10px; background-color:#212121}
+#wrap #contents .background .colors ul li p.palette04 {width:160px; height:120px; border-radius:10px; background-color:#808080}
+#wrap #contents .background .colors ul li p.palette05 {width:160px; height:120px; border-radius:10px; background-color:#bfbfbf}
+#wrap #contents .background .colors ul li p.palette06 {width:160px; height:120px; border-radius:10px; background-color:#f7f7f7; border:solid 1px #bfbfbf;}
+
+#wrap #contents .background .typography {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .typography .text01 {font-size:54px; font-family: 'S-CoreDream-5Medium'; color:#808080; line-height:81px; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text02 {font-size:48px; font-family: 'S-CoreDream-5Medium'; color:#808080; line-height:72px; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text03 {font-size:42px; font-family: 'S-CoreDream-5Medium'; color:#808080; line-height:63px; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text04 {font-size:36px; font-family: 'S-CoreDream-5Medium'; color:#808080; line-height:54px; letter-spacing:-1px; }
+
+#wrap #contents .background .buttons {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .buttons p.style01 {font-size:16px; text-align:center; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; width:160px; margin-right:24px; float:left; padding-top:10px;}
+#wrap #contents .background .buttons ul.default {margin-bottom:30px;}
+#wrap #contents .background .buttons ul.default:after {clear:both; display:block;  content:"";}
+#wrap #contents .background .buttons ul.default li {width:344px; height:48px; text-align:center; color:#fff; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#ff6160; float:left; margin-right:24px;}
+#wrap #contents .background .buttons ul.default li:nth-child(2){width:344px; height:44px; text-align:center; color:#ff6160; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#fff; border:solid 2px #ff6160; float:left; margin-right:0;}
+#wrap #contents .background .buttons ul.pressed {margin-bottom:30px;}
+#wrap #contents .background .buttons ul.pressed:after {clear:both; display:block;  content:"";}
+#wrap #contents .background .buttons ul.pressed li {width:344px; height:48px; text-align:center; color:#fff; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#eb4746; float:left; margin-right:24px;}
+#wrap #contents .background .buttons ul.pressed li:nth-child(2){width:344px; height:44px; text-align:center; color:#eb4746; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#fff; border:solid 2px #eb4746; float:left; margin-right:0;}
+#wrap #contents .background .buttons ul.disabled {margin-bottom:30px;}
+#wrap #contents .background .buttons ul.disabled:after {clear:both; display:block;  content:"";}
+#wrap #contents .background .buttons ul.disabled li {width:344px; height:48px; text-align:center; color:#fff; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#bfbfbf; float:left; margin-right:24px;}
+#wrap #contents .background .buttons ul.disabled li:nth-child(2){width:344px; height:44px; text-align:center; color:#bfbfbf; font-family: 'S-CoreDream-5Medium'; font-size:16px; line-height:48px; background-color:#fff; border:solid 2px #bfbfbf; float:left; margin-right:0;}
+
+#wrap #contents .background .forms {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .forms p.style01 {font-size:16px; text-align:center; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; width:160px; margin-right:24px; float:left; padding-top:10px;}
+#wrap #contents .background .forms p.input01{width:344px; height:48px; float:left; margin-right:24px;}
+#wrap #contents .background .forms p.input02{width:344px; height:48px; float:left; margin-right:0;}
+
+#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login {width:1080px; margin:auto; text-align:left;}
