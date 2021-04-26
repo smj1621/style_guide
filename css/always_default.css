@@ -90,4 +90,10 @@ input:-ms-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
 #wrap #contents .background .forms p.input01{width:344px; height:48px; float:left; margin-right:24px;}
 #wrap #contents .background .forms p.input02{width:344px; height:48px; float:left; margin-right:0;}
 
-#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; }
+#wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
+#wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:60px;}
+
+#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login{width:1080px; margin:auto; text-align:left;}
+

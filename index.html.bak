@@ -33,7 +33,7 @@
 						</li>
 						<li><p class="palette03"></p></li>
 						<li class="txt">
-							Name : main_black<br />
+							Name : <b>main_black</b><br />
 							#212121<br />
 							RGB : 33 33 33<br />
 							CMYK : 72 66 65 73
@@ -44,7 +44,7 @@
 					<ul>
 						<li><p class="palette02"></p></li>
 						<li class="txt">
-							Name : dark_red<br />
+							Name : <b>dark_red</b><br />
 							#eb4746<br />
 							RGB : 235 71 70<br />
 							CMYK : 2 88 74 0
@@ -55,21 +55,21 @@
 					<ul>						
 						<li><p class="palette04"></p></li>
 						<li class="txt">
-							Name : dark_gray<br />
+							Name : <b>dark_gray</b><br />
 							#808080<br />
 							RGB : 128 128 128<br />
 							CMYK : 52 43 43 8
 						</li>
 						<li><p class="palette05"></p></li>
 						<li class="txt">
-							Name : gray<br />
+							Name : <b>gray</b><br />
 							#bfbfbf<br />
 							RGB : 191 191 191<br />
 							CMYK : 25 20 20 0
 						</li>
 						<li><p class="palette06"></p></li>
 						<li class="txt">
-							Name : light_gray<br />
+							Name : <b>light_gray</b><br />
 							#f7f7f7<br />
 							RGB : 247 247 247<br />
 							CMYK : 2 1 1 0
@@ -249,7 +249,7 @@
 
 			<div class="h10"></div>
 
-			<!-- // alert -->
+			<!-- // Login -->
 			<div class="background">
 				<div class="login">
 					<h1>LOGIN</h1>
@@ -261,7 +261,49 @@
 
 				</div>
 			</div>
-			<!-- // alert -->
+			<!-- // Login -->
+
+			<div class="h10"></div>
+
+			<!-- // Icon -->
+			<div class="background">
+				<div class="icon">
+					<h1>ICON</h1>
+
+					<h2>icon template</h2>
+					<p class="sub_title">24dp(72px)</p>
+					<div class="icon_list">						
+						<p class="icon"><img src="images/icon/setting.svg" alt="setting" /></p>						
+						<p class="icon"><img src="images/icon/home.svg" alt="home" /></p>
+					</div>
+					<div class="h30"></div>
+					<p class="sub_title">18dp(54px)</p>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/close.svg" alt="close" /></p>
+						<p class="icon"><img src="images/icon/modify.svg" alt="modify" /></p>
+					</div>
+					<div class="h30"></div>
+					<p class="sub_title">16dp(48px)</p>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/cancel.svg" alt="cancel" /></p>
+						<p class="icon"><img src="images/icon/menu.svg" alt="menu" /></p>
+						<p class="icon"><img src="images/icon/arrow-back.svg" alt="arrow_back" /></p>
+						<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
+					</div>
+					<div class="h30"></div>
+					<p class="sub_title">14dp(42px)</p>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
+						<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
+					</div>
+					<div class="h30"></div>
+					<p class="sub_title">etc</p>
+					<div class="icon_list">
+						<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>
+					</div>
+				</div>
+			</div>
+			<!-- // Icon -->
 
 		</div>		
 

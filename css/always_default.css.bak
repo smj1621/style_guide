@@ -56,7 +56,7 @@ input:-ms-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
 #wrap #contents .background .colors ul:after {clear:both; display:block;  content:"";}
 #wrap #contents .background .colors ul li{width:160px; margin-right:24px; float:left;}
 #wrap #contents .background .colors ul li:nth-child(6) {margin-right:0;}
-#wrap #contents .background .colors ul li.txt {text-align:left; font-size:16px; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; padding-top:30px;}
+#wrap #contents .background .colors ul li.txt {text-align:left; font-size:16px; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; padding-top:25px;}
 #wrap #contents .background .colors ul li p.palette01 {width:160px; height:120px; border-radius:10px; background-color:#ff6160}
 #wrap #contents .background .colors ul li p.palette02 {width:160px; height:120px; border-radius:10px; background-color:#eb4746}
 #wrap #contents .background .colors ul li p.palette03 {width:160px; height:120px; border-radius:10px; background-color:#212121}
@@ -90,4 +90,10 @@ input:-ms-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
 #wrap #contents .background .forms p.input01{width:344px; height:48px; float:left; margin-right:24px;}
 #wrap #contents .background .forms p.input02{width:344px; height:48px; float:left; margin-right:0;}
 
-#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; }
+#wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
+#wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:30px;}
+
+#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login{width:1080px; margin:auto; text-align:left;}
+
