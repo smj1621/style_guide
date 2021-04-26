@@ -275,6 +275,7 @@
 					<div class="icon_list">						
 						<p class="icon"><img src="images/icon/setting.svg" alt="setting" /></p>						
 						<p class="icon"><img src="images/icon/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/icon/more.svg" alt="more" /></p>
 					</div>
 					<div class="h30"></div>
 					<p class="sub_title">18dp(54px)</p>
