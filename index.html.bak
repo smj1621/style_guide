@@ -298,6 +298,7 @@
 						<p class="icon"><img src="images/icon/arrow-back.svg" alt="arrow_back" /></p>
 						<p class="icon"><img src="images/icon/arrow-right.svg" alt="arrow-right" /></p>
 					</div>
+					<div class="h30"></div>
 					<div class="icon_list">
 						<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
 						<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
