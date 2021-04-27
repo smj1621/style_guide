@@ -97,3 +97,4 @@ input:-ms-input-placeholder {color:#bfbfbf; font-family: 'S-CoreDream-3Light';}
 
 #wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login{width:1080px; margin:auto; text-align:left;}
 
+.ddd
