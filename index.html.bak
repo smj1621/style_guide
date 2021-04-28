@@ -196,7 +196,7 @@
 				<div class="margins">
 					<h1>MARGIN</h1>
 
-					<h2>Top_bar</h2>
+					<h2>Tool bar</h2>
 					<div class="img01">
 						<img src="images/margin_topbar.png" alt="margin_topbar" />
 					</div>
@@ -273,6 +273,22 @@
 					<h2>profile page</h2>
 					<div class="img01">
 						<img src="images/profile.png" alt="profile" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // Profile -->
+
+			<div class="h10"></div>
+
+			<!-- // Open Menu -->
+			<div class="background">
+				<div class="open_menu">
+					<h1>MENU</h1>
+
+					<h2>open menu</h2>
+					<div class="img01">
+						<img src="images/open_menu.png" alt="open_menu" />
 					</div>
 
 				</div>
