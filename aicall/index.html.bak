@@ -99,26 +99,82 @@
 					</h3>
 
 					<h3>H1 - 24dp(72px), line-height:36dp(108px)</h3>
-					<div class="text01">
+					<div class="text01 medium">
 						오늘 우리가게 현황
 					</div>
 					<h3>H2 - 18dp(54px), line-height:27dp(81px)</h3>
-					<div class="text02">
+					<div class="text02 medium">
 						AI비서가 오늘 문의 받은 내용입니다
 					</div>
 					<h3>H3 - 16dp(48px), line-height:24dp(72px)</h3>
-					<div class="text03">
+					<div class="text03 medium">
 						주문 4건 / 예약 10건 / 일반 10건
 					</div>
 					<h3>H4(big_point) - 32dp(96px), line-height:48dp(144px)</h3>
-					<div class="text04">
+					<div class="text04 medium">
 						사장님!
+					</div>
+					<h3>H5(small_point) - 10dp(15px), line-height:20dp(45px)</h3>
+					<div class="text05 medium">
+						응대내역 설정
 					</div>
 
 				</div>
 			</div>
 			<!-- // typography -->
 
+			<div class="h10"></div>
+
+			<!-- // home -->
+			<div class="background">
+				<div class="home">
+					<h1>HOME</h1>
+					<div class="img01">
+						<img src="images/home_guide.png" alt="home" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // home -->
+
+			<div class="h10"></div>
+
+			<!-- // bottom_menu -->
+			<div class="background">
+				<div class="bottom_menu">
+					<h1>BOTTOM MENU</h1>
+					<div class="img01">
+						<img src="images/bottom_menu_guide.png" alt="bottom_menu" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // bottom_menu -->
+
+			<div class="h10"></div>
+
+			<!-- // Icon -->
+			<div class="background">
+				<div class="icon">
+					<h1>ICON</h1>
+
+					<h2>icon template</h2>
+					<div class="icon_list">						
+						<p class="icon"><img src="images/svg/arrow_right.svg" alt="arrow_right" /></p>	
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
+					</div>as
+					<div class="h30"></div>
+					<h2>etc</h2>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/store.svg" alt="store" /></p>
+					</div>
+				</div>
+			</div>
+			<!-- // Icon -->
 
 		</div>		
 

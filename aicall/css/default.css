@@ -61,9 +61,14 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .typography .text01 {font-size:72px; color:#999999; line-height:108px; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text02 {font-size:54px; color:#999999; line-height:81px; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text03 {font-size:48px; color:#999999; line-height:72px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text04 {font-size:96px; color:#999999; line-height:144px; letter-spacing:-1px; }
+#wrap #contents .background .typography .text04 {font-size:96px; color:#999999; line-height:144px; letter-spacing:-1px;  margin-bottom:60px;}
+#wrap #contents .background .typography .text05 {font-size:30px; color:#999999; line-height:45px; letter-spacing:-1px; }
 .memo {font-size:21px;}
 
-#wrap #contents .background .margins, #wrap #contents .background .join, #wrap #contents .background .alert, #wrap #contents .background .login, #wrap #contents .background .profile, #wrap #contents .background .open_menu{width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; }
+#wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
+#wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:60px;}
 
-.ddd
+#wrap #contents .background .home, #wrap #contents .background .bottom_menu{width:1080px; margin:auto; text-align:left;}
+
