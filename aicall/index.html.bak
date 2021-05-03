@@ -94,7 +94,7 @@
 					<h2>Font</h2>
 					<h3>
 						웹폰트 Noto Sans CJK KR<br />
-						얇게 : thin {font-weight:100}, 중간 : medium {font-weight:500;}, 굵게 : bolder {font-weight:900;}<br />
+						얇게 : thin {font-weight:100}, 중간 : medium {font-weight:500;}, 굵게 : bolder {font-weight:900;}
 						경로 : <a href="https://www.google.com/get/noto/" target="_blank">https://www.google.com/get/noto/</a>
 					</h3>
 
