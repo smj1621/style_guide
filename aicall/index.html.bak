@@ -118,6 +118,10 @@
 					<div class="text05 medium">
 						응대내역 설정
 					</div>
+					<h3>H6 - 20dp(60px), line-height:30dp(90px)</h3>
+					<div class="text06 medium">
+						예약문의
+					</div>
 
 				</div>
 			</div>
@@ -161,12 +165,24 @@
 					<h2>icon template</h2>
 					<div class="icon_list">						
 						<p class="icon"><img src="images/svg/arrow_right.svg" alt="arrow_right" /></p>	
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/svg/todo_list.svg" alt="todo_list" /></p>
+						<p class="icon"><img src="images/svg/response_list.svg" alt="response_list" /></p>
+						<p class="icon"><img src="images/svg/setting.svg" alt="setting" /></p>
+						<p class="icon"><img src="images/svg/check.svg" alt="check" /></p>
+						<p class="icon"><img src="images/svg/possible.svg" alt="possible" /></p>
+						<p class="icon"><img src="images/svg/impossible.svg" alt="impossible" /></p>
+						<p class="icon"><img src="images/svg/call.svg" alt="call" /></p>
+						<p class="icon"><img src="images/svg/message2.svg" alt="message2" /></p>
 					</div>
 					<div class="h30"></div>
 					<div class="icon_list">
-						<p class="icon"><img src="images/icon/home.svg" alt="home" /></p>
-						<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
-					</div>as
+						<p class="icon"><img src="images/svg/minus.svg" alt="minus" /></p>
+						<p class="icon"><img src="images/svg/plus.svg" alt="plus" /></p>
+						<p class="icon"><img src="images/svg/circle.svg" alt="circle" /></p>
+						<p class="icon"><img src="images/svg/check_circle.svg" alt="check_circle" /></p>
+					</div>
 					<div class="h30"></div>
 					<h2>etc</h2>
 					<div class="icon_list">
