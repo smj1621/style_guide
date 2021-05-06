@@ -62,8 +62,9 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .typography .text02 {font-size:54px; color:#999999; line-height:81px; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text03 {font-size:48px; color:#999999; line-height:72px; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text04 {font-size:96px; color:#999999; line-height:144px; letter-spacing:-1px;  margin-bottom:60px;}
-#wrap #contents .background .typography .text05 {font-size:30px; color:#999999; line-height:45px; letter-spacing:-1px; }
-#wrap #contents .background .typography .text06 {font-size:60px; color:#999999; line-height:90px; letter-spacing:-1px; }
+#wrap #contents .background .typography .text05 {font-size:30px; color:#999999; line-height:45px; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text06 {font-size:60px; color:#999999; line-height:90px; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text07 {font-size:42px; color:#999999; line-height:63px; letter-spacing:-1px; }
 .memo {font-size:21px;}
 
 #wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
@@ -71,5 +72,5 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
 #wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:60px;}
 
-#wrap #contents .background .home, #wrap #contents .background .bottom_menu{width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .home, #wrap #contents .background .bottom_menu, #wrap #contents .background .sub_page{width:1080px; margin:auto; text-align:left;}
 
