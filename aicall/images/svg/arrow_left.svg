@@ -3,5 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="72px" height="60px" viewBox="0 0 72 60" enable-background="new 0 0 72 60" xml:space="preserve">
-<polygon fill="#231F20" points="22.21,0.157 22.042,0 17.841,3.933 45.74,30 17.841,56.084 22.042,60 54.159,30 "/>
+<polygon fill="#231F20" points="49.789,59.843 49.958,60 54.159,56.066 26.26,30 54.159,3.916 49.958,0 17.841,30 "/>
+<text transform="matrix(1 0 0 1 95.5 22.5)" font-family="'AdobeMyungjoStd-Medium-KSCpc-EUC-H'" font-size="12">airplane</text>
 </svg>
