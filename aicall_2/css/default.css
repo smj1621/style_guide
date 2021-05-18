@@ -1,5 +1,4 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;500;700&display=swap');
 
 
 /* common */
@@ -17,12 +16,12 @@ q:before, q:after{content :''}
 
 
 /* body */ 
-body{width:100%; overflow-x:hidden; overflow-y:auto; transform:skew(-0.001deg); color:#333333;font-family: 'Noto Sans KR', sans-serif;}
+body{width:100%; overflow-x:hidden; overflow-y:auto; transform:skew(-0.001deg); color:#333333; font-family: 'Spoqa Han Sans Neo', 'sans-serif'; }
 a, a:link, a:visited{text-decoration:none;}
 a:hover, a:active{text-decoration:none;}
 
 /* font */
-.light      { font-weight: 300 }
+.regular      { font-weight: 400 }
 .medium     { font-weight: 500 }
 .bold     { font-weight: 700 }
 
@@ -39,7 +38,7 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap {width:100%;}
 #wrap #top {width:100%; height:200px; text-align:center; margin:auto;}
 #wrap #contents {width:100%;}
-#wrap #contents .background {width:100%; padding:60px 0; background-color:#f0f2f5; margin:auto; text-align:center;}
+#wrap #contents .background {width:100%; padding:60px 0; background-color:#f7f9fc; margin:auto; text-align:center;}
 #wrap #contents .background:after {clear:both; display:block;  content:"";}
 
 #wrap #contents .background .colors {width:1080px; margin:auto; text-align:left;}
@@ -47,30 +46,32 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .colors ul:after {clear:both; display:block;  content:"";}
 #wrap #contents .background .colors ul li{width:160px; margin-right:24px; float:left;}
 #wrap #contents .background .colors ul li:nth-child(6) {margin-right:0;}
-#wrap #contents .background .colors ul li.txt {text-align:left; font-size:16px;color:#999999; line-height:24px; padding-top:25px;}
-#wrap #contents .background .colors ul li p.palette01 {width:160px; height:120px; border-radius:10px; background-color:#b5d692}
-#wrap #contents .background .colors ul li p.palette02 {width:160px; height:120px; border-radius:10px; background-color:#7ad5c3}
-#wrap #contents .background .colors ul li p.palette03 {width:160px; height:120px; border-radius:10px; background-color:#333333}
-#wrap #contents .background .colors ul li p.palette04 {width:160px; height:120px; border-radius:10px; background-color:#999999}
-#wrap #contents .background .colors ul li p.palette05 {width:160px; height:120px; border-radius:10px; background-color:#c8cacc}
-#wrap #contents .background .colors ul li p.palette06 {width:160px; height:120px; border-radius:10px; background-color:#f0f2f5; border:solid 1px #c8cacc;}
-#wrap #contents .background .colors ul li p.palette07 {width:160px; height:120px; border-radius:10px; background-color:#f97d63}
+#wrap #contents .background .colors ul li.txt {text-align:left; font-size:16px;color:#2a333d; line-height:24px; padding-top:25px;}
+#wrap #contents .background .colors ul li p.black {width:160px; height:120px; border-radius:10px; background-color:#2a333d}
+#wrap #contents .background .colors ul li p.blue {width:160px; height:120px; border-radius:10px; background-color:#2384f6}
+#wrap #contents .background .colors ul li p.red {width:160px; height:120px; border-radius:10px; background-color:#f14c41}
+#wrap #contents .background .colors ul li p.gray {width:160px; height:120px; border-radius:10px; background-color:#6e7882}
+#wrap #contents .background .colors ul li p.light_gray {width:160px; height:120px; border-radius:10px; background-color:#dbe1e5}
+#wrap #contents .background .colors ul li p.bg_gray {width:160px; height:120px; border-radius:10px; background-color:#f7f9fc; border:solid 1px #dbe1e5;}
+#wrap #contents .background .colors ul li p.green {width:160px; height:120px; border-radius:10px; background-color:#00a0aa}
+#wrap #contents .background .colors ul li p.skyblue {width:160px; height:120px; border-radius:10px; background-color:#3c97ea}
+#wrap #contents .background .colors ul li p.divide {width:160px; height:120px; border-radius:10px; background-color:#dfe9f3}
 
 #wrap #contents .background .typography {width:1080px; margin:auto; text-align:left;}
 #wrap #contents .background .typography p.title {font-size:18px; margin-bottom:30px;}
-#wrap #contents .background .typography .text01 {font-size:72px; color:#999999; line-height:108px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text02 {font-size:54px; color:#999999; line-height:81px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text03 {font-size:48px; color:#999999; line-height:72px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text04 {font-size:96px; color:#999999; line-height:144px; letter-spacing:-1px;  margin-bottom:60px;}
-#wrap #contents .background .typography .text05 {font-size:30px; color:#999999; line-height:45px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text06 {font-size:60px; color:#999999; line-height:90px; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text07 {font-size:42px; color:#999999; line-height:63px; letter-spacing:-1px; }
-.memo {font-size:21px;}
+#wrap #contents .background .typography .text01 {font-size:72px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text02 {font-size:64px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text03 {font-size:48px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text04 {font-size:44px; color:#6e7882; letter-spacing:-1px;  margin-bottom:60px;}
+#wrap #contents .background .typography .text05 {font-size:36px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text06 {font-size:32px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text07 {font-size:28px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
+#wrap #contents .background .typography .text08 {font-size:24px; color:#6e7882; letter-spacing:-1px;}
 
 #wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
-#wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#808080; line-height:24px; }
+#wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'Spoqa Han Sans Neo', 'sans-serif'; color:#808080; line-height:24px; }
 #wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
 #wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:60px;}
 
-#wrap #contents .background .home, #wrap #contents .background .bottom_menu, #wrap #contents .background .sub_page, #wrap #contents .background .alert{width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .home, #wrap #contents .background .bottom_menu, #wrap #contents .background .sub_page, #wrap #contents .background .alert, #wrap #contents .background .button{width:1080px; margin:auto; text-align:left;}
 
