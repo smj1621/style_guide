@@ -73,5 +73,5 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .icon .icon_list{width:1080px; margin:auto; text-align:center; margin-top:30px;}
 #wrap #contents .background .icon .icon_list p.icon {float:left; width:48px; margin-right:60px;}
 
-#wrap #contents .background .home, #wrap #contents .background .bottom_menu, #wrap #contents .background .sub_page, #wrap #contents .background .alert, #wrap #contents .background .ばづさ歯ぬ{width:1080px; margin:auto; text-align:left;}
+#wrap #contents .background .home, #wrap #contents .background .bottom_menu, #wrap #contents .background .sub_page, #wrap #contents .background .alert, #wrap #contents .background .button{width:1080px; margin:auto; text-align:left;}
 

@@ -171,8 +171,8 @@
 				<div class="sub_page">
 					<h1>SUB PAGE</h1>
 					<div class="img01">
-						<img src="images/response_guide.png" alt="응대내역" /><br />
-						<img src="images/response_detail_guide.png" alt="응대내역상세페이지" />
+						<img src="images/reposnse_guide.png" alt="응대내역" /><br />
+						<img src="images/reposnse_detail_guide.png" alt="응대내역상세페이지" />
 					</div>
 				</div>
 			</div>
