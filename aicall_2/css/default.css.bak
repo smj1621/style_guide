@@ -53,9 +53,13 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .colors ul li p.gray {width:160px; height:120px; border-radius:10px; background-color:#6e7882}
 #wrap #contents .background .colors ul li p.light_gray {width:160px; height:120px; border-radius:10px; background-color:#dbe1e5}
 #wrap #contents .background .colors ul li p.bg_gray {width:160px; height:120px; border-radius:10px; background-color:#f7f9fc; border:solid 1px #dbe1e5;}
+#wrap #contents .background .colors ul li p.state_gray {width:160px; height:120px; border-radius:10px; background-color:#eef1f4; border:solid 1px #dbe1e5;}
 #wrap #contents .background .colors ul li p.green {width:160px; height:120px; border-radius:10px; background-color:#00a0aa}
 #wrap #contents .background .colors ul li p.skyblue {width:160px; height:120px; border-radius:10px; background-color:#3c97ea}
+#wrap #contents .background .colors ul li p.dark_blue {width:160px; height:120px; border-radius:10px; background-color:#3e538a}
 #wrap #contents .background .colors ul li p.divide {width:160px; height:120px; border-radius:10px; background-color:#dfe9f3}
+#wrap #contents .background .colors ul li p.orange {width:160px; height:120px; border-radius:10px; background-color:#ff5c00}
+#wrap #contents .background .colors ul li p.yellow {width:160px; height:120px; border-radius:10px; background-color:#ff5c00}
 
 #wrap #contents .background .typography {width:1080px; margin:auto; text-align:left;}
 #wrap #contents .background .typography p.title {font-size:18px; margin-bottom:30px;}
@@ -66,7 +70,8 @@ h3 {font-size:18px; text-align:left; margin-bottom:30px; color:#333333; line-hei
 #wrap #contents .background .typography .text05 {font-size:36px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text06 {font-size:32px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
 #wrap #contents .background .typography .text07 {font-size:28px; color:#6e7882; letter-spacing:-1px; margin-bottom:60px;}
-#wrap #contents .background .typography .text08 {font-size:24px; color:#6e7882; letter-spacing:-1px;}
+#wrap #contents .background .typography .text08 {font-size:24px; color:#6e7882; letter-spacing:-1px;margin-bottom:60px;}
+#wrap #contents .background .typography .text09 {font-size:40px; color:#6e7882; letter-spacing:-1px;margin-bottom:60px;}
 
 #wrap #contents .background .icon {width:1080px; margin:auto; text-align:left;}
 #wrap #contents .background .icon p.sub_title {font-size:16px; text-align:left; font-family: 'Spoqa Han Sans Neo', 'sans-serif'; color:#808080; line-height:24px; }

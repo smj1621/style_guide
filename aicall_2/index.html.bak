@@ -56,6 +56,14 @@
 							#dbe1e5<br />
 							RGB : 219 225 229
 						</li>
+						<li><p class="state_gray"></p></li>
+						<li class="txt">
+							Name : <b>state_gray</b><br />
+							#eef1f4<br />
+							RGB : 238 241 144
+						</li>
+					</ul>
+					<ul>
 						<li><p class="bg_gray"></p></li>
 						<li class="txt">
 							Name : <b>bg_gray</b><br />
@@ -86,11 +94,23 @@
 						</li>
 					</ul>
 					<ul>
+						<li><p class="orange"></p></li>
+						<li class="txt">
+							Name : <b>orange</b><br />
+							#ff5c00<br />
+							RGB : 255 92 0
+						</li>
 						<li><p class="divide"></p></li>
 						<li class="txt">
 							Name : <b>divide</b><br />
 							#dfe9f3<br />
 							RGB : 223 233 243
+						</li>
+						<li><p class="yellow"></p></li>
+						<li class="txt">
+							Name : <b>yellow</b><br />
+							#fdff5d<br />
+							RGB : 253 255 93
 						</li>
 					</ul>
 
@@ -127,6 +147,10 @@
 					<h3>H22 - 22sp</h3>
 					<div class="text04 medium">
 						응대내역 상세 전화번호 010 1234 5678
+					</div>
+					<h3>H20 - 20sp</h3>
+					<div class="text09 medium">
+						접수완료
 					</div>
 					<h3>H18 - 18sp</h3>
 					<div class="text05 medium">
@@ -169,10 +193,16 @@
 			<!-- // sub_page -->
 			<div class="background">
 				<div class="sub_page">
-					<h1>SUB PAGE</h1>
+					<h1>처리할 일</h1>
 					<div class="img01">
-						<img src="images/reposnse_guide.png" alt="응대내역" /><br />
-						<img src="images/reposnse_detail_guide.png" alt="응대내역상세페이지" />
+						<img src="images/list_guide.png" alt="처리할일" />
+					</div>
+				</div>
+				<div class="sub_page">
+					<h1>응대내역</h1>
+					<div class="img01">
+						<img src="images/response_guide.png" alt="응대내역" /><br />
+						<img src="images/response_detail_guide.png" alt="응대내역상세페이지" />
 					</div>
 				</div>
 			</div>
@@ -187,10 +217,11 @@
 					<div class="img01">
 						<img src="images/bottom_menu_guide.png" alt="bottom_menu" />
 					</div>
-
 				</div>
 			</div>
 			<!-- // bottom_menu -->
+
+			<div class="h10"></div>
 
 			<!-- // button -->
 			<div class="background">
