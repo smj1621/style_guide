@@ -241,6 +241,22 @@
 
 			<div class="h10"></div>
 
+			<!-- // alert -->
+			<div class="background">
+				<div class="alert">
+					<h1>POPUP</h1>
+					<div class="img01">
+						<img src="images/alert_guide01.png" alt="배달시간 설정" />
+					</div>
+					<div class="iimg01">
+						<img src="images/alert_guide02.png" alt="예약신청승인" />
+					</div>
+				</div>
+			</div>
+			<!-- // alert -->
+
+			<div class="h10"></div>
+
 			<!-- // Icon -->
 			<div class="background">
 				<div class="icon">
@@ -255,13 +271,13 @@
 						<p class="icon"><img src="images/list/plus.svg" alt="더하기" /></p>
 						<p class="icon"><img src="images/list/cancel.svg" alt="불가" /></p>
 						<p class="icon"><img src="images/list/more.svg" alt="더보기" /></p>
-						<p class="icon"><img src="images/list/cancel_2.svg" alt="취소" /></p>
 						<p class="icon"><img src="images/list/check.svg" alt="체크" /></p>
-						<p class="icon"><img src="images/list/check_2.svg" alt="승인" /></p>
 						<p class="icon"><img src="images/list/ok.svg" alt="O" /></p>
 					</div>
 					<div class="h30"></div>
 					<div class="icon_list">
+						<p class="icon"><img src="images/list/cancel_2.svg" alt="취소" /></p>
+						<p class="icon"><img src="images/list/check_2.svg" alt="승인" /></p>
 						<p class="icon"><img src="images/home/call.svg" alt="call" /></p>
 						<p class="icon"><img src="images/home/thisweek_icon.svg" alt="thisweek_icon" /></p>
 						<p class="icon"><img src="images/home/today_icon.svg" alt="today_icon" /></p>
