@@ -228,19 +228,6 @@
 
 			<div class="h10"></div>
 
-			<!-- // button -->
-			<div class="background">
-				<div class="button">
-					<h1>BUTTON</h1>
-					<div class="img01">
-						<img src="images/button_guide01.png" alt="home 버튼" />
-					</div>
-				</div>
-			</div>
-			<!-- // button -->
-
-			<div class="h10"></div>
-
 			<!-- // alert -->
 			<div class="background">
 				<div class="alert">
@@ -254,6 +241,19 @@
 				</div>
 			</div>
 			<!-- // alert -->
+
+			<div class="h10"></div>
+
+			<!-- // button -->
+			<div class="background">
+				<div class="button">
+					<h1>BUTTON</h1>
+					<div class="img01">
+						<img src="images/button_guide01.png" alt="home 버튼" />
+					</div>
+				</div>
+			</div>
+			<!-- // button -->
 
 			<div class="h10"></div>
 
