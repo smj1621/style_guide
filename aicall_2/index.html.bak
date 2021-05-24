@@ -238,6 +238,9 @@
 					<div class="iimg01">
 						<img src="images/alert_guide02.png" alt="예약신청승인" />
 					</div>
+					<div class="iimg01">
+						<img src="images/alert_guide03.png" alt="불가사유 설정" />
+					</div>
 				</div>
 			</div>
 			<!-- // alert -->
@@ -285,6 +288,10 @@
 						<p class="icon"><img src="images/home/state_2.gif" alt="응대중입니다." /></p>						
 						<p class="icon"><img src="images/list/message.svg" alt="문자" /></p>						
 						<p class="icon"><img src="images/list/search.svg" alt="검색" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/mypage/listen.svg" alt="미리듣기" /></p>
 					</div>
 					<div class="h30"></div>
 					<div class="icon_list">
