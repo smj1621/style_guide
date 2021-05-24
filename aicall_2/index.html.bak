@@ -211,6 +211,17 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="h10"></div>
+
+			<div class="background">
+				<div class="sub_page">
+					<h1>로그인</h1>
+					<div class="img01">
+						<img src="images/login_guide.png" alt="로그인" />
+					</div>
+				</div>
+			</div>
 			<!-- // sub_page -->
 
 			<div class="h10"></div>
