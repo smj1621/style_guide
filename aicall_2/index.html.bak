@@ -303,6 +303,8 @@
 					<div class="h30"></div>
 					<div class="icon_list">
 						<p class="icon"><img src="images/mypage/listen.svg" alt="미리듣기" /></p>
+						<p class="icon"><img src="images/mypage/camera.svg" alt="사진추가" /></p>
+						<p class="icon"><img src="images/mypage/camera_2.svg" alt="카메라" /></p>
 					</div>
 					<div class="h30"></div>
 					<div class="icon_list">
