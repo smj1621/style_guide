@@ -226,10 +226,18 @@
 				<div class="sub_page">
 					<h1>마이페이지</h1>
 					<div class="img01">
-						<img src="images/mypage_guide.png" alt="마이페이지" /><br />
-						<img src="images/schedule_guide.png" alt="스케줄설정" /><br />
-						<img src="images/ment_guide.png" alt="멘트설정" /><br />
-						<img src="images/mypage_info_guide.png" alt="인사말설정" /><br />
+						<img src="images/mypage_guide.png" alt="마이페이지" />
+					</div>
+					<div class="img01">
+						<img src="images/schedule_guide.png" alt="스케줄설정" />
+					</div>
+					<div class="img01">
+						<img src="images/ment_guide.png" alt="멘트설정" />
+					</div>
+					<div class="img01">
+						<img src="images/mypage_info_guide.png" alt="인사말설정" />
+					</div>
+					<div class="img01">
 						<img src="images/menu_setting_guide.png" alt="메뉴설정" />
 					</div>
 				</div>
