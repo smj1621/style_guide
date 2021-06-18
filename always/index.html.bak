@@ -49,6 +49,13 @@
 							RGB : 235 71 70<br />
 							CMYK : 2 88 74 0
 						</li>						
+						<li><p class="palette02"></p></li>
+						<li class="txt">
+							Name : <b>green</b><br />
+							#04a3bb<br />
+							RGB : 4 163 187<br />
+							CMYK : 77 16 23 0
+						</li>	
 					</ul>
 
 					<h2>Gray color palette</h2>
@@ -193,9 +200,14 @@
 				<div class="alert">
 					<h1>ALERT</h1>
 
-					<h2>Popup - radius 10dp(30px)</h2>
+					<h2>Default Popup</h2>
 					<div class="img01">
 						<img src="images/alert.png" alt="alert" />
+					</div>
+
+					<h2>Profile page</h2>
+					<div class="img01">
+						<img src="images/profile_alert_guide.png" alt="프로필 사진선택 팝업" />
 					</div>
 
 				</div>
