@@ -301,6 +301,7 @@
 					<div class="icon_list">
 						<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
 						<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
+						<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>
 					</div>
 					<div class="h30"></div>
 					<h2>form</h2>
