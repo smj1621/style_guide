@@ -195,6 +195,22 @@
 
 			<div class="h10"></div>
 
+			<!-- // Open Menu -->
+			<div class="background">
+				<div class="open_menu">
+					<h1>SELECT PAGE</h1>
+
+					<h2>default img select page</h2>
+					<div class="img01">
+						<img src="images/defaultimg_select_guide.png" alt="기본이미지 선택화면" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // Open Menu -->
+
+			<div class="h10"></div>
+
 			<!-- // alert -->
 			<div class="background">
 				<div class="alert">
