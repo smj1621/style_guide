@@ -25,7 +25,7 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 .h81 {clear:both; height:81px;}
 .h40 {clear:both; height:40px;}
 
-.dotted {width:900px; border:dashed 1px #ebebeb; margin:40px 0 100px 0;}
+.dotted {width:820px; border:dashed 1px #ebebeb; margin:40px 0 100px 0;}
 
 /* font */
 @font-face {font-family: 'S-CoreDream-3Light'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff'); font-weight: normal; font-style: normal;}
@@ -33,7 +33,8 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 @font-face {font-family: 'S-CoreDream-7ExtraBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-7ExtraBold.woff') format('woff'); font-weight: normal; font-style: normal;}
 
 
-#wrap {width:100%; margin:auto; }
+#wrap {width:100%; margin:auto;}
+#wrap:after {clear:both; display:block; content:'';}
 
 #navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; min-height:1000px; padding-top:120px; padding-right:60px; position:fixed; height:100%; overflow:auto;}
 #navigation:after {clear:both; display:block; content:"";}
@@ -62,7 +63,7 @@ p.gray {height:108px; background-color:#bfbfbf; text-align:left; color:#fff; bor
 p.light_gray {height:108px; background-color:#f7f7f7; text-align:left; color:#212121; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
 p.color_name {height:42px; line-height:36px; background-color:#f5f7f7; text-align:center; color:#212121; border-bottom-left-radius:10px; border-bottom-right-radius:10px; }
 
-.textinfo_box {width:100%; background-color:#f5f7f7; padding:30px; text-align:left;}
+.textinfo_box {width:760px; background-color:#f5f7f7; padding:30px; text-align:left;}
 .textinfo_box:after {clear:both; display:block; content:"";}
 .textinfo_box p.aa {float:left; width:168px; text-align:center; font-size:48px; font-family: 'S-CoreDream-7ExtraBold'; padding-top:25px;}
 .textinfo_box p.title {float:left; width:138px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#707676;  font-size:16px; line-height:2; padding-left:10px;}
@@ -73,3 +74,6 @@ span.7extrabold{font-family: 'S-CoreDream-7ExtraBold';}
 .textsize p.info{float:left; font-family: 'S-CoreDream-3Light'; color:#707676; line-height:96px;}
 
 .form p {text-align:left;}
+
+.icon_list{width:820px; margin:auto; text-align:center; margin-top:30px; }
+.icon_list p.icon {float:left; width:72px; margin-right:50px;}

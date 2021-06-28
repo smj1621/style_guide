@@ -266,7 +266,7 @@
 					<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>
 					<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
 					<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
-					<p class="icon" style="margin-right:0;"><img src="images/icon/circle_check.svg" alt="circle_check" /></p>
+					<p class="icon"><img src="images/icon/circle_check.svg" alt="circle_check" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
