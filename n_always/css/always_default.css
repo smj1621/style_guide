@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+/* common */
+a, abbr, acronym, address, b, blockquote, big, body, center, caption, cite, code, command, dd, del, dfn, dl, div, dt, em, embed, fieldset, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, label, legend, li, object, ol, p, pre, q, s, samp, section, small, span, source, strike, strong, sub, sup, table, tbody, tfoot, thead, th, tr, u, ul, var{ margin:0; padding:0}
+h1,h2,h3,h4,h5,h6{font-size:100% }
+ol, ul{list-style:none}
+address, caption, cite, code, dfn, em, strong, th, var{font-style :normal; font-weight:normal}
+table{border-collapse:collapse; border-spacing:0}
+fieldset, img{border:0}
+img, input, button, select, textarea{ vertical-align:middle}
+caption, th{text-align:left }
+q:before, q:after{content :''} 
+.hidden{width:0; height:0; margin:0; padding:0; overflow:hidden; line-height:0; font-size:0; visibility:hidden; position:absolute; left:0; top:0}
+
+
+/* body */ 
+body{width:100%; overflow-x:hidden; overflow-y:auto; transform:skew(-0.001deg); color:#212121;}
+a, a:link, a:visited{text-decoration:none; color:#707676;}
+a:hover, a:active{text-decoration:none; color:#212121;}
+
+h1 {text-align:center; font-family: 'Play', sans-serif; font-size:32px; height:48px;}
+h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30px; margin-bottom:42px; color:#212121;}
+
+.h81 {clear:both; height:81px;}
+.h40 {clear:both; height:40px;}
+
+.dotted {width:900px; border:dashed 1px #ebebeb; margin:40px 0 100px 0;}
+
+/* font */
+@font-face {font-family: 'S-CoreDream-3Light'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'S-CoreDream-5Medium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff') format('woff'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'S-CoreDream-7ExtraBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-7ExtraBold.woff') format('woff'); font-weight: normal; font-style: normal;}
+
+
+#wrap {width:100%; margin:auto; }
+
+#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; min-height:1000px; padding-top:120px; padding-right:60px; position:fixed; height:100%; overflow:auto;}
+#navigation:after {clear:both; display:block; content:"";}
+.navi_box {float:right;}
+.navi_box p {font-size:18px; text-align:center; font-family: 'Spoqa Han Sans Regular', 'sans-serif'; height:24px; color:#707676;}
+
+.mainMenu{width: 100%; display: block; overflow: hidden; margin-top:72px; font-family: 'Play', sans-serif; text-align:right; font-size:18px;}
+.mainMenu a:hover {color:#212121;}
+.btn{display: block; height:48px; color: #707676; position: relative;}
+.subMenu a{display: block; padding: 20px 0; color: #a1a8a8; font-size: 16px; position: relative;}
+.subMenu a:after{content: ''; opacity: 0; transition: opacity 0.3s;}
+.subMenu a:hover{transition: all 0.3s; color:#212121;}
+.nav:target .subMenu{min-height:270px;}
+
+
+
+#contents {width:820px; float:left; margin-left:540px; margin-top:180px; text-align:left;font-family: 'Spoqa Han Sans Regular', 'sans-serif';}
+
+.color_tip {width:148px; margin-right:20px; float:left;}
+p.main_red {height:108px; background-color:#ff6160; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.main_black {height:108px; background-color:#212121; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.dark_red {height:108px; background-color:#eb4746; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.green {height:108px; background-color:#04a3bb; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.dark_gray {height:108px; background-color:#808080; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.gray {height:108px; background-color:#bfbfbf; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.light_gray {height:108px; background-color:#f7f7f7; text-align:left; color:#212121; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.color_name {height:42px; line-height:36px; background-color:#f5f7f7; text-align:center; color:#212121; border-bottom-left-radius:10px; border-bottom-right-radius:10px; }
+
+.textinfo_box {width:100%; background-color:#f5f7f7; padding:30px; text-align:left;}
+.textinfo_box:after {clear:both; display:block; content:"";}
+.textinfo_box p.aa {float:left; width:168px; text-align:center; font-size:48px; font-family: 'S-CoreDream-7ExtraBold'; padding-top:25px;}
+.textinfo_box p.title {float:left; width:138px; text-align:left; font-family: 'S-CoreDream-3Light'; color:#707676;  font-size:16px; line-height:2; padding-left:10px;}
+.textinfo_box p.info {float:left; font-family: 'S-CoreDream-3Light'; color:#212121;  font-size:16px; line-height:2;}
+span.5medium {font-family: 'S-CoreDream-5Medium';}
+span.7extrabold{font-family: 'S-CoreDream-7ExtraBold';}
+.textsize p.title {float:left; width: 110px; padding-left:10px; font-family: 'S-CoreDream-7ExtraBold'; font-size:18px; color:#212121; line-height:96px;}
+.textsize p.info{float:left; font-family: 'S-CoreDream-3Light'; color:#707676; line-height:96px;}
+
+.form p {text-align:left;}
