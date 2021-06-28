@@ -15,7 +15,7 @@ q:before, q:after{content :''}
 
 
 /* body */ 
-body{width:100%; overflow-x:hidden; overflow-y:auto; transform:skew(-0.001deg); color:#212121;}
+body{width:100%; overflow-x:hidden; overflow-y:auto; color:#212121;}
 a, a:link, a:visited{text-decoration:none; color:#707676;}
 a:hover, a:active{text-decoration:none; color:#212121;}
 
@@ -36,10 +36,11 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 #wrap {width:100%; margin:auto;}
 #wrap:after {clear:both; display:block; content:'';}
 
-#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; min-height:1000px; padding-top:120px; padding-right:60px; position: sticky; position: -webkit-sticky;height:100%; overflow:auto;}
+#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; min-height:1000px; padding-top:120px; padding-right:60px; position:fixed; position: -webkit-fixed;height:100%; overflow:auto;}
 #navigation:after {clear:both; display:block; content:"";}
 .navi_box {float:right;}
 .navi_box p {font-size:18px; text-align:center; font-family: 'Spoqa Han Sans Regular', 'sans-serif'; height:24px; color:#707676;}
+.selected {color:#212121;}
 
 .mainMenu{width: 100%; display: block; overflow: hidden; margin-top:72px; font-family: 'Play', sans-serif; text-align:right; font-size:18px;}
 .mainMenu a:hover {color:#212121;}
