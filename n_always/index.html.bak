@@ -63,7 +63,7 @@
 			
 			<!-- [s] color -->
 			<a name="color">
-			<div id="color">
+			<div class="color">
 				<h2>Main Colors</h2>
 				<div class="color_tip">
 					<p class="main_red">
@@ -131,7 +131,7 @@
 
 			<!-- [s] typography -->
 			<a name="typography">
-			<div id="typography">
+			<div class="typography">
 				<h2>Typography</h2>
 				<div class="textinfo_box">
 					<p class="aa">Aa</p>
@@ -171,7 +171,7 @@
 
 			<!-- [s] form -->
 			<a name="form">
-			<div id="form">
+			<div class="form">
 				<h2>Form</h2>
 				<p><img src="images/form_guide.png" alt="form_guide" /></p>
 				<div class="h81"></div>
@@ -185,7 +185,7 @@
 
 			<!-- [s] button -->
 			<a name="button">
-			<div id="button">
+			<div class="button">
 				<h2>Primary Buttons</h2>
 				<p><img src="images/primary_button_guide.png" alt="primary_button_guide" /></p>
 				<div class="h81"></div>
@@ -202,7 +202,7 @@
 
 			<!-- [s] page preview -->
 			<a name="pagepreview">
-			<div id="pagepreview">
+			<div class="pagepreview">
 				<h2>Page Preview</h2>
 				<p><img src="images/page_preview.png" alt="page_preview" /></p>
 				<div class="h81"></div>
@@ -212,7 +212,7 @@
 			<div class="dotted"></div>
 
 			<!-- [s] page preview -->
-			<div id="pageguide">
+			<div class="pageguide">
 				<a name="main">
 				<h2>Main</h2>
 				<p><img src="images/main_guide.png" alt="main_guide" /></p>
@@ -247,7 +247,7 @@
 
 			<!-- [s] icon template -->
 			<a name="icon">
-			<div id="icon">
+			<div class="icon">
 				<h2>Icon Template</h2>
 				<div class="icon_list">						
 					<p class="icon"><img src="images/icon/setting.svg" alt="setting" /></p>						
@@ -266,7 +266,7 @@
 					<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>
 					<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
 					<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
-					<p class="icon"><img src="images/icon/circle_check.svg" alt="circle_check" /></p>
+					<p class="icon" style="margin-right:0;"><img src="images/icon/circle_check.svg" alt="circle_check" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
