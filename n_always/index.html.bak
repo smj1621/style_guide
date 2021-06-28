@@ -62,7 +62,6 @@
 		<div id="contents">
 			
 			<!-- [s] color -->
-			<a name="color">
 			<div class="color">
 				<h2>Main Colors</h2>
 				<div class="color_tip">
@@ -130,7 +129,6 @@
 			<div class="dotted"></div>
 
 			<!-- [s] typography -->
-			<a name="typography">
 			<div class="typography">
 				<h2>Typography</h2>
 				<div class="textinfo_box">
@@ -170,7 +168,6 @@
 			<div class="dotted"></div>
 
 			<!-- [s] form -->
-			<a name="form">
 			<div class="form">
 				<h2>Form</h2>
 				<p><img src="images/form_guide.png" alt="form_guide" /></p>
@@ -184,7 +181,6 @@
 			<div class="dotted"></div>
 
 			<!-- [s] button -->
-			<a name="button">
 			<div class="button">
 				<h2>Primary Buttons</h2>
 				<p><img src="images/primary_button_guide.png" alt="primary_button_guide" /></p>
@@ -201,7 +197,6 @@
 			<div class="dotted"></div>
 
 			<!-- [s] page preview -->
-			<a name="pagepreview">
 			<div class="pagepreview">
 				<h2>Page Preview</h2>
 				<p><img src="images/page_preview.png" alt="page_preview" /></p>
@@ -246,7 +241,6 @@
 			<div class="dotted"></div>
 
 			<!-- [s] icon template -->
-			<a name="icon">
 			<div class="icon">
 				<h2>Icon Template</h2>
 				<div class="icon_list">						
