@@ -370,6 +370,12 @@
 				<h2>OCR Buttons</h2>
 				<p><img src="images/ocr_button_guide.png" alt="ocr_button_guide" /></p>
 			</div>
+			<div class="h81"></div>
+			<div class="pagepreview">
+				<h2>OCR Page Preview</h2>
+				<p><img src="images/ocr_page_preview.png" alt="ocr_page_preview" /></p>
+				<div class="h81"></div>
+			</div>
 			<!-- [e] ocr -->
 
 		</div>
