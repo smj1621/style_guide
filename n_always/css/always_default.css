@@ -89,6 +89,7 @@ p.ocr_black {height:108px; background-color:#292929; text-align:left; color:#fff
 p.ocr_gray {height:108px; background-color:#707576; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
 p.ocr_l_gray {height:108px; background-color:#bcbfbf; text-align:left; color:#fff; border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
 p.ocr_bg_gray {height:108px; background-color:#f2f3f7; text-align:left;  color:#212121;  border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
+p.ocr_divide_gray {height:108px; background-color:#e6e6e6; text-align:left;  color:#212121;  border-top-left-radius:10px; border-top-right-radius:10px; padding:30px 10px 0 20px; font-weight:900;}
 p.color_name {height:42px; line-height:36px; background-color:#f5f7f7; text-align:center; color:#212121; border-bottom-left-radius:10px; border-bottom-right-radius:10px; }
 
 
@@ -101,3 +102,8 @@ span.medium {font-family: 'Spoqa Han Sans'; font-weight:500;}
 span.regular {font-family: 'Spoqa Han Sans'; font-weight:700;}
 .ocr_textsize p.title {float:left; width:60px; padding-left:10px; font-family: 'Spoqa Han Sans'; font-weight:700; font-size:18px; color:#212121; line-height:96px;}
 .ocr_textsize p.info{float:left; font-family: 'Spoqa Han Sans'; font-weight:400; color:#707676; line-height:96px;}
+
+
+.background {width:100%; margin:0 auto;text-align:left; }
+.background p.zoom img{width:360px; height:236px;}
+.background p.zoom:hover img{transform:scale(3); transition:.5s;}
