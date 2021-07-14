@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html;charset=euc-kr" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1;" />
+	<link rel="stylesheet" type="text/css" href="css/always_default.css" />
+	<title>KT DIGICO Style Guide</title>
+</head>
+<body>
+
+	<div id="wrap">
+		
+		<!--div id="top">
+		</div-->
+
+		<div id="contents">
+
+			<!-- // colors -->
+			<div class="background">
+				<div class="colors">
+					<h1>COLORS</h1>
+
+					<h2>Main color palette</h2>
+					<ul>
+						<li><p class="palette01"></p></li>
+						<li class="txt">
+							Name : <b>main_red</b><br />
+							#ff6160<br />
+							RGB : 255 97 96<br />
+							CMYK : 0 77 59 0
+						</li>
+						<li><p class="palette03"></p></li>
+						<li class="txt">
+							Name : <b>main_black</b><br />
+							#212121<br />
+							RGB : 33 33 33<br />
+							CMYK : 72 66 65 73
+						</li>
+					</ul>
+
+					<h2>Sub color palette</h2>
+					<ul>
+						<li><p class="palette02"></p></li>
+						<li class="txt">
+							Name : <b>dark_red</b><br />
+							#eb4746<br />
+							RGB : 235 71 70<br />
+							CMYK : 2 88 74 0
+						</li>						
+					</ul>
+
+					<h2>Gray color palette</h2>
+					<ul>						
+						<li><p class="palette04"></p></li>
+						<li class="txt">
+							Name : <b>dark_gray</b><br />
+							#808080<br />
+							RGB : 128 128 128<br />
+							CMYK : 52 43 43 8
+						</li>
+						<li><p class="palette05"></p></li>
+						<li class="txt">
+							Name : <b>gray</b><br />
+							#bfbfbf<br />
+							RGB : 191 191 191<br />
+							CMYK : 25 20 20 0
+						</li>
+						<li><p class="palette06"></p></li>
+						<li class="txt">
+							Name : <b>light_gray</b><br />
+							#f7f7f7<br />
+							RGB : 247 247 247<br />
+							CMYK : 2 1 1 0
+						</li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- // colors -->
+
+			<div class="h10"></div>
+
+			<!-- // typography -->
+			<div class="background">
+				<div class="typography">
+					<h1>TYPOGRAPHY</h1>
+
+					<h2>Font</h2>
+					<h3>
+						웹폰트 에스코어 드림<br />
+						경로 : <a href="https://noonnu.cc/font_page/223" target="_blank">https://noonnu.cc/font_page/223</a>
+					</h3>
+
+					<h2>H1 - 에스코어 드림 <span class="thin">3 Light(얇게)</span>, 에스코어 드림 5 Medium(중간), 에스코어 드림 <span class="bold">7 bold(굵게)</span></h2>
+					<div class="text01">
+						<span class="bold">디지코 챌린저스</span> 18dp(54px)<br />
+						<span class="thin">DIGICO Challengers</span> line-height : 27dp(81px)
+					</div>
+
+					<h2>H2 - 에스코어 드림 <span class="thin">3 Light(얇게)</span>, 에스코어 드림 5 Medium(중간), 에스코어 드림 <span class="bold">7 bold(굵게)</span></h2>
+					<div class="text02">
+						<span class="bold">디지코 챌린저스</span> 16dp(48px)<br />
+						<span class="thin">DIGICO Challengers</span> line-height : 24dp(72px)
+					</div>
+
+					<h2>H3 - 에스코어 드림 <span class="thin">3 Light(얇게)</span>, 에스코어 드림 5 Medium(중간), 에스코어 드림 <span class="bold">7 bold(굵게)</span></h2>
+					<div class="text03">
+						<span class="bold">디지코 챌린저스</span> 14dp(42px)<br />
+						<span class="thin">DIGICO Challengers</span> line-height : 21dp(63px)
+					</div>
+
+					<h2>H4 - 에스코어 드림 <span class="thin">3 Light(얇게)</span>, 에스코어 드림 5 Medium(중간), 에스코어 드림 <span class="bold">7 bold(굵게)</span></h2>
+					<div class="text04">
+						<span class="bold">디지코 챌린저스</span> 12dp(36px)<br />
+						<span class="thin">DIGICO Challengers</span> line-height : 18dp(54px)
+					</div>
+
+
+				</div>
+			</div>
+			<!-- // typography -->
+
+			<div class="h10"></div>
+
+			<!-- // button -->
+			<div class="background">
+				<div class="buttons">
+					<h1>BUTTON</h1>
+
+					<h2>Margin</h2>
+					<div class="img01">
+						<img src="images/button_margin.png" alt="button margin" />
+					</div>
+
+					<h2>Style</h2>
+					<p class="style01">Default</p>
+					<ul class="default">
+						<li>BUTTON</li>
+						<li>BUTTON</li>
+					</ul>
+					<p class="style01">Pressed</p>
+					<ul class="pressed">
+						<li>BUTTON</li>
+						<li>BUTTON</li>
+					</ul>
+					<p class="style01">Disabled</p>
+					<ul class="disabled">
+						<li>BUTTON</li>
+						<li>BUTTON</li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- // button -->
+
+			<div class="h10"></div>
+
+			<!-- // form -->
+			<div class="background">
+				<div class="forms">
+					<h1>FORM</h1>
+
+					<h2>Margin</h2>
+					<div class="img01">
+						<img src="images/form_margin.png" alt="form_margin" />
+					</div>
+
+					<h2>Style</h2>
+					<p class="style01">Default</p>
+					<p class="input01"><input type="text" placeholder="input text" class="input_text01" /></p>
+					<p class="input02"><input type="text" placeholder="input text" class="input_text02" /></p>
+
+					<div class="h30"></div>
+
+					<p class="style01">Pressed</p>
+					<p class="input01"><img src="images/input_focus01.png" alt="input_focus" /></p>
+					<p class="input02"><img src="images/input_focus02.png" alt="input_focus" /></p>
+
+					<div class="h30"></div>
+
+					<p class="style01">Disabled</p>
+					<p class="input01"><input type="text" placeholder="input text" class="input_text03"  disabled /></p>
+					<p class="input02"><input type="text" placeholder="input text" class="input_text04" disabled /></p>
+
+
+				</div>
+			</div>
+			<!-- // form -->
+
+			<div class="h10"></div>
+
+			<!-- // margin -->
+			<div class="background">
+				<div class="margins">
+					<h1>MARGIN</h1>
+
+					<h2>Tool bar</h2>
+					<div class="img01">
+						<img src="images/margin_topbar.png" alt="margin_topbar" />
+					</div>
+
+					<h2>Navigation</h2>
+					<div class="img01">
+						<img src="images/margin_navigation.png" alt="margin_navigation" />
+					</div>
+
+					<h2>Bottom menu - rounded 20dp(60px), box-shadow (y-position +, 3dp정도) << 상황에 따라 변동될 수 있습니다.</h2>
+					<div class="img01">
+						<img src="images/bottom_menu.png" alt="bottom_menu" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // margin -->
+
+			<div class="h10"></div>
+
+			<!-- // join -->
+			<div class="background">
+				<div class="join">
+					<h1>JOIN</h1>
+
+					<h2>Members join</h2>
+					<div class="img01">
+						<img src="images/join_members.png" alt="join_members" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // join -->
+
+			<div class="h10"></div>
+
+			<!-- // alert -->
+			<div class="background">
+				<div class="alert">
+					<h1>ALERT</h1>
+
+					<h2>Popup - radius 10dp(30px)</h2>
+					<div class="img01">
+						<img src="images/alert.png" alt="alert" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // alert -->
+
+			<div class="h10"></div>
+
+			<!-- // Login -->
+			<div class="background">
+				<div class="login">
+					<h1>LOGIN</h1>
+
+					<h2>Login page</h2>
+					<div class="img01">
+						<img src="images/login.png" alt="login" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // Login -->
+
+			<div class="h10"></div>
+
+			<!-- // Profile -->
+			<div class="background">
+				<div class="profile">
+					<h1>PROFILE</h1>
+
+					<h2>profile page</h2>
+					<div class="img01">
+						<img src="images/profile.png" alt="profile" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // Profile -->
+
+			<div class="h10"></div>
+
+			<!-- // Open Menu -->
+			<div class="background">
+				<div class="open_menu">
+					<h1>MENU</h1>
+
+					<h2>open menu</h2>
+					<div class="img01">
+						<img src="images/open_menu.png" alt="open_menu" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // Profile -->
+
+			<div class="h10"></div>
+
+			<!-- // Icon -->
+			<div class="background">
+				<div class="icon">
+					<h1>ICON</h1>
+
+					<h2>icon template</h2>
+					<div class="icon_list">						
+						<p class="icon"><img src="images/icon/setting.svg" alt="setting" /></p>						
+						<p class="icon"><img src="images/icon/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/icon/more.svg" alt="more" /></p>
+						<p class="icon"><img src="images/icon/close.svg" alt="close" /></p>
+						<p class="icon"><img src="images/icon/pencil.svg" alt="pencil" /></p>
+						<p class="icon"><img src="images/icon/cancel.svg" alt="cancel" /></p>
+						<p class="icon"><img src="images/icon/menu.svg" alt="menu" /></p>
+						<p class="icon"><img src="images/icon/arrow-back.svg" alt="arrow_back" /></p>
+						<p class="icon"><img src="images/icon/arrow-right.svg" alt="arrow-right" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
+						<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
+					</div>
+					<div class="h30"></div>
+					<h2>form</h2>
+					<div class="icon_list">
+						<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
+						<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
+					</div>
+					<div class="h30"></div>
+					<h2>etc</h2>
+					<div class="icon_list">
+						<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>
+					</div>
+				</div>
+			</div>
+			<!-- // Icon -->
+
+		</div>		
+
+	</div>
+  
+</body>
+</html>

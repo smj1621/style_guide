@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html;charset=euc-kr" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1;" />
+	<link rel="stylesheet" type="text/css" href="css/default.css" />
+	<title>KT DIGICO Style Guide</title>
+</head>
+<body>
+
+	<div id="wrap">
+
+		<div id="contents">
+
+			<!-- // colors -->
+			<div class="background">
+				<div class="colors">
+					<h1>COLORS</h1>
+
+					<h2>Main color palette</h2>
+					<ul>
+						<li><p class="palette01"></p></li>
+						<li class="txt">
+							Name : <b>main_green</b><br />
+							#b5d692<br />
+							RGB : 181 214 146<br />
+							CMYK : 31 1 55 0
+						</li>
+						<li><p class="palette03"></p></li>
+						<li class="txt">
+							Name : <b>main_black</b><br />
+							#333333<br />
+							RGB : 51 51 51<br />
+							CMYK : 69 63 62 58
+						</li>
+					</ul>
+
+					<h2>Sub color palette</h2>
+					<ul>
+						<li><p class="palette02"></p></li>
+						<li class="txt">
+							Name : <b>sub_mint</b><br />
+							#7ad5c3<br />
+							RGB : 122 213 195<br />
+							CMYK : 49 0 30 0
+						</li>
+						<li><p class="palette07"></p></li>
+						<li class="txt">
+							Name : <b>sub_red</b><br />
+							#f97d63<br />
+							RGB : 249 125 99<br />
+							CMYK : 0 64 60 0
+						</li>
+					</ul>
+
+					<h2>Gray color palette</h2>
+					<ul>						
+						<li><p class="palette04"></p></li>
+						<li class="txt">
+							Name : <b>dark_gray</b><br />
+							#999999<br />
+							RGB : 153 153 153<br />
+							CMYK : 43 35 35 1
+						</li>
+						<li><p class="palette05"></p></li>
+						<li class="txt">
+							Name : <b>gray</b><br />
+							#c8cacc<br />
+							RGB : 200 202 204<br />
+							CMYK : 21 16 15 0
+						</li>
+						<li><p class="palette06"></p></li>
+						<li class="txt">
+							Name : <b>light_gray</b><br />
+							#f0f2f5<br />
+							RGB : 240 242 245<br />
+							CMYK : 4 2 2 0
+						</li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- // colors -->
+
+			<div class="h10"></div>
+
+			<!-- // typography -->
+			<div class="background">
+				<div class="typography">
+					<h1>TYPOGRAPHY</h1>
+
+					<h2>Font</h2>
+					<h3 class="light">
+						웹폰트 Noto Sans CJK KR<br />
+						얇게 : <span class="light">light {font-weight:300}</span>, <span class="medium">중간 : medium {font-weight:500;}</span>, <span class="bold">굵게 : bold {font-weight:700;}</span><br />
+						경로 : <a href="https://www.google.com/get/noto/" target="_blank">https://www.google.com/get/noto/</a>
+					</h3>
+
+					<h3>H1 - 24dp(72px), line-height:36dp(108px)</h3>
+					<div class="text01 medium">
+						오늘 우리가게 현황
+					</div>
+					<h3>H2 - 18dp(54px), line-height:27dp(81px)</h3>
+					<div class="text02 medium">
+						AI비서가 오늘 문의 받은 내용입니다
+					</div>
+					<h3>H3 - 16dp(48px), line-height:24dp(72px)</h3>
+					<div class="text03 medium">
+						주문 4건 / 예약 10건 / 일반 10건
+					</div>
+					<h3>H4(big_point) - 32dp(96px), line-height:48dp(144px)</h3>
+					<div class="text04 medium">
+						사장님!
+					</div>
+					<h3>H5(small_point) - 10dp(30px), line-height:15dp(45px)</h3>
+					<div class="text05 medium">
+						응대내역 설정
+					</div>
+					<h3>H6 - 20dp(60px), line-height:30dp(90px)</h3>
+					<div class="text06 medium">
+						예약문의
+					</div>
+					<h3>H7 - 14dp(42px), line-height:21dp(63px)</h3>
+					<div class="text07 medium">
+						예약문의
+					</div>
+
+				</div>
+			</div>
+			<!-- // typography -->
+
+			<div class="h10"></div>
+
+			<!-- // home -->
+			<div class="background">
+				<div class="home">
+					<h1>HOME</h1>
+					<div class="img01">
+						<img src="images/home_guide.png" alt="home" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // home -->
+
+			<div class="h10"></div>
+
+			<!-- // sub_page -->
+			<div class="background">
+				<div class="sub_page">
+					<h1>SUB PAGE</h1>
+					<div class="img01">
+						<img src="images/work_guide.png" alt="처리할일" />
+					</div>
+					<div class="img01">
+						<img src="images/response_guide.png" alt="응대내역" />
+					</div>
+					<div class="img01">
+						<img src="images/response_detail_guide.png" alt="응대내역상세페이지" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // sub_page -->
+
+			<div class="h10"></div>
+
+			<!-- // bottom_menu -->
+			<div class="background">
+				<div class="bottom_menu">
+					<h1>BOTTOM MENU</h1>
+					<div class="img01">
+						<img src="images/bottom_menu_guide.png" alt="bottom_menu" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // bottom_menu -->
+
+			<div class="h10"></div>
+
+			<!-- // alert -->
+			<div class="background">
+				<div class="alert">
+					<h1>ALERT</h1>
+					<div class="img01">
+						<img src="images/work_possible_guide.png" alt="처리할일 가능" />
+					</div>
+					<div class="img01">
+						<img src="images/work_impossible_guide.png" alt="처리할일 불가" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // sub_page -->
+
+			<div class="h10"></div>
+
+			<!-- // Icon -->
+			<div class="background">
+				<div class="icon">
+					<h1>ICON</h1>
+
+					<h2>icon template</h2>
+					<div class="icon_list">						
+						<p class="icon"><img src="images/svg/arrow_right.svg" alt="arrow_right" /></p>	
+						<p class="icon"><img src="images/svg/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/svg/todo_list.svg" alt="todo_list" /></p>
+						<p class="icon"><img src="images/svg/response_list.svg" alt="response_list" /></p>
+						<p class="icon"><img src="images/svg/setting.svg" alt="setting" /></p>
+						<p class="icon"><img src="images/svg/check.svg" alt="check" /></p>
+						<p class="icon"><img src="images/svg/possible.svg" alt="possible" /></p>
+						<p class="icon"><img src="images/svg/impossible.svg" alt="impossible" /></p>
+						<p class="icon"><img src="images/svg/call.svg" alt="call" /></p>
+						<p class="icon"><img src="images/svg/message2.svg" alt="message2" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/dot_more.svg" alt="dot_more" /></p>
+						<p class="icon"><img src="images/svg/clip.svg" alt="clip" /></p>
+						<p class="icon"><img src="images/svg/send.svg" alt="send" /></p>
+						<p class="icon"><img src="images/svg/schedule.svg" alt="schedule" /></p>
+						<p class="icon"><img src="images/svg/ment.svg" alt="ment" /></p>
+						<p class="icon"><img src="images/svg/menu.svg" alt="menu" /></p>
+						<p class="icon"><img src="images/svg/myinfo.svg" alt="myinfo" /></p>
+						<p class="icon"><img src="images/svg/cs.svg" alt="cs" /></p>
+						<p class="icon"><img src="images/svg/notice.svg" alt="notice" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/minus.svg" alt="minus" /></p>
+						<p class="icon"><img src="images/svg/plus.svg" alt="plus" /></p>
+						<p class="icon"><img src="images/svg/circle.svg" alt="circle" /></p>
+						<p class="icon"><img src="images/svg/check_circle.svg" alt="check_circle" /></p>
+						<p class="icon"><img src="images/svg/arrow_right2.svg" alt="arrow_right2" /></p>
+						<p class="icon"><img src="images/svg/arrow_left.svg" alt="arrow_left" /></p>
+					</div>
+					<div class="h30"></div>
+					<h2>etc</h2>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/store.svg" alt="store" /></p>
+					</div>
+				</div>
+			</div>
+			<!-- // Icon -->
+
+		</div>		
+
+	</div>
+  
+</body>
+</html>

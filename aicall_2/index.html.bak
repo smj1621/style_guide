@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html;charset=euc-kr" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1;" />
+	<link rel="stylesheet" type="text/css" href="css/default.css" />
+	<link rel="stylesheet" type="text/css" href="css/font.css" />
+	<title>KT DIGICO Style Guide</title>
+</head>
+<body>
+
+	<div id="wrap">
+
+		<div id="contents">
+
+			<!-- // colors -->
+			<div class="background">
+				<div class="colors">
+					<h1>COLORS</h1>
+
+					<h2>Main color palette</h2>
+					<ul>
+						<li><p class="black"></p></li>
+						<li class="txt">
+							Name : <b>black</b><br />
+							#2a333d<br />
+							RGB : 42 51 61
+						</li>
+						<li><p class="blue"></p></li>
+						<li class="txt">
+							Name : <b>blue</b><br />
+							#2384f6<br />
+							RGB : 35 132 246
+						</li>
+						<li><p class="red"></p></li>
+						<li class="txt">
+							Name : <b>red</b><br />
+							#f14c41<br />
+							RGB : 241 76 65
+						</li>
+					</ul>
+
+					<h2>Gray color palette</h2>
+					<ul>
+						<li><p class="gray"></p></li>
+						<li class="txt">
+							Name : <b>gray</b><br />
+							#6e7882<br />
+							RGB : 110 120 130
+						</li>
+						<li><p class="light_gray"></p></li>
+						<li class="txt">
+							Name : <b>light_gray</b><br />
+							#dbe1e5<br />
+							RGB : 219 225 229
+						</li>
+						<li><p class="state_gray"></p></li>
+						<li class="txt">
+							Name : <b>state_gray</b><br />
+							#eef1f4<br />
+							RGB : 238 241 144
+						</li>
+					</ul>
+					<ul>
+						<li><p class="bg_gray"></p></li>
+						<li class="txt">
+							Name : <b>bg_gray</b><br />
+							#f7f9fc<br />
+							RGB : 247 249 252
+						</li>
+					</ul>
+
+					<h2>Sub color palette</h2>
+					<ul>						
+						<li><p class="green"></p></li>
+						<li class="txt">
+							Name : <b>green</b><br />
+							#00a0aa<br />
+							RGB : 0 160 170
+						</li>
+						<li><p class="skyblue"></p></li>
+						<li class="txt">
+							Name : <b>skyblue</b><br />
+							#3c97ea<br />
+							RGB : 60 151 234
+						</li>
+						<li><p class="dark_blue"></p></li>
+						<li class="txt">
+							Name : <b>dark_blue</b><br />
+							#3e538a<br />
+							RGB : 62 83 138
+						</li>
+					</ul>
+					<ul>
+						<li><p class="orange"></p></li>
+						<li class="txt">
+							Name : <b>orange</b><br />
+							#ff5c00<br />
+							RGB : 255 92 0
+						</li>
+						<li><p class="divide"></p></li>
+						<li class="txt">
+							Name : <b>divide</b><br />
+							#dfe9f3<br />
+							RGB : 223 233 243
+						</li>
+						<li><p class="yellow"></p></li>
+						<li class="txt">
+							Name : <b>yellow</b><br />
+							#fdff5d<br />
+							RGB : 253 255 93
+						</li>
+					</ul>
+					<ul>
+						<li><p class="navy"></p></li>
+						<li class="txt">
+							Name : <b>navy</b><br />
+							#232f50<br />
+							RGB : 35 47 80
+						</li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- // colors -->
+
+			<div class="h10"></div>
+
+			<!-- // typography -->
+			<div class="background">
+				<div class="typography">
+					<h1>TYPOGRAPHY</h1>
+
+					<h2>Font</h2>
+					<h3 class="light">
+						<span class="regular">SpoqaHanSansNeo-Regular</span><br />
+						<span class="medium">SpoqaHanSansNeo-Medium</span><br />
+						<span class="bold">SpoqaHanSansNeo-Bold</span>
+					</h3>
+
+					<h3>H36 - 36sp</h3>
+					<div class="text01 medium">
+						처리할 일, 응대내역, 마이페이지 
+					</div>
+					<h3>H32 - 32sp</h3>
+					<div class="text02 medium">
+						<u>4건</u>
+					</div>
+					<h3>H24 - 24sp</h3>
+					<div class="text03 medium">
+						오늘 우리가게 현황, 불가사유 설정
+					</div>
+					<h3>H22 - 22sp</h3>
+					<div class="text04 medium">
+						응대내역 상세 전화번호 010 1234 5678
+					</div>
+					<h3>H20 - 20sp</h3>
+					<div class="text09 medium">
+						접수완료
+					</div>
+					<h3>H18 - 18sp</h3>
+					<div class="text05 medium">
+						AI비서가 오늘 문의 받은 내용입니다.
+					</div>
+					<h3>H16 - 16sp</h3>
+					<div class="text06 medium">
+						주문 4건 | 예약 10건 | 메모 4건 | 일반 4건
+					</div>
+					<h3>H14 - 14sp</h3>
+					<div class="text07 medium">
+						2021년 5월 18일 화요일
+					</div>
+					<h3>H12 - 12sp</h3>
+					<div class="text08 medium">
+						홈, 처리할 일, 응대내역, 마이페이지
+					</div>
+
+				</div>
+			</div>
+			<!-- // typography -->
+
+			<div class="h10"></div>
+
+			<!-- // home -->
+			<div class="background">
+				<div class="home">
+					<h1>HOME</h1>
+					<div class="img01">
+						<img src="images/home_guide.png" alt="home" /><br />
+						<img src="images/inresponse_guide.png" alt="응대중입니다" />
+					</div>
+
+				</div>
+			</div>
+			<!-- // home -->
+
+			<div class="h10"></div>
+
+			<!-- // sub_page -->
+			<div class="background">
+				<div class="sub_page">
+					<h1>처리할 일</h1>
+					<div class="img01">
+						<img src="images/list_guide.png" alt="처리할일" />
+					</div>
+				</div>
+			</div>
+
+			<div class="h10"></div>
+
+			<div class="background">
+				<div class="sub_page">
+					<h1>응대내역</h1>
+					<div class="img01">
+						<img src="images/response_guide.png" alt="응대내역" /><br />
+						<img src="images/response_detail_guide.png" alt="응대내역상세페이지" />
+					</div>
+				</div>
+			</div>
+
+			<div class="h10"></div>
+
+			<div class="background">
+				<div class="sub_page">
+					<h1>마이페이지</h1>
+					<div class="img01">
+						<img src="images/mypage_guide.png" alt="마이페이지" />
+					</div>
+					<div class="img01">
+						<img src="images/schedule_guide.png" alt="스케줄설정" />
+					</div>
+					<div class="img01">
+						<img src="images/ment_guide.png" alt="멘트설정" />
+					</div>
+					<div class="img01">
+						<img src="images/mypage_info_guide.png" alt="인사말설정" />
+					</div>
+					<div class="img01">
+						<img src="images/menu_setting_guide.png" alt="메뉴설정" />
+					</div>
+				</div>
+			</div>
+
+			<div class="h10"></div>
+
+			<div class="background">
+				<div class="sub_page">
+					<h1>로그인</h1>
+					<div class="img01">
+						<img src="images/login_guide.png" alt="로그인" />
+					</div>
+				</div>
+			</div>
+			<!-- // sub_page -->
+
+			<div class="h10"></div>
+
+			<!-- // bottom_menu -->
+			<div class="background">
+				<div class="bottom_menu">
+					<h1>BOTTOM MENU</h1>
+					<div class="img01">
+						<img src="images/bottom_menu_guide.png" alt="bottom_menu" />
+					</div>
+				</div>
+			</div>
+			<!-- // bottom_menu -->
+
+			<div class="h10"></div>
+
+			<!-- // alert -->
+			<div class="background">
+				<div class="alert">
+					<h1>POPUP</h1>
+					<div class="img01">
+						<img src="images/alert_guide01.png" alt="배달시간 설정" />
+					</div>
+					<div class="img01">
+						<img src="images/alert_guide02.png" alt="예약신청승인" />
+					</div>
+					<div class="img01">
+						<img src="images/alert_guide03.png" alt="불가사유 설정" />
+					</div>
+					<div class="img01">
+						<img src="images/menu_add_guide.png" alt="메뉴추가" />
+					</div>
+				</div>
+			</div>
+			<!-- // alert -->
+
+			<div class="h10"></div>
+
+			<!-- // button -->
+			<div class="background">
+				<div class="button">
+					<h1>BUTTON</h1>
+					<div class="img01">
+						<img src="images/button_guide01.png" alt="home 버튼" />
+					</div>
+				</div>
+			</div>
+			<!-- // button -->
+
+			<div class="h10"></div>
+
+			<!-- // Icon -->
+			<div class="background">
+				<div class="icon">
+					<h1>ICON</h1>
+
+					<h2>icon template</h2>
+					<div class="icon_list">						
+						<p class="icon"><img src="images/svg/arrow_left.svg" alt="arrow_left" /></p>
+						<p class="icon"><img src="images/svg/arrow_right.svg" alt="arrow_right" /></p>	
+						<p class="icon"><img src="images/svg/arrow_down.svg" alt="arrow_down" /></p>
+						<p class="icon"><img src="images/svg/minus.svg" alt="빼기" /></p>
+						<p class="icon"><img src="images/svg/plus.svg" alt="더하기" /></p>
+						<p class="icon"><img src="images/svg/cancel.svg" alt="불가" /></p>
+						<p class="icon"><img src="images/svg/more.svg" alt="더보기" /></p>
+						<p class="icon"><img src="images/svg/check.svg" alt="체크" /></p>
+						<p class="icon"><img src="images/svg/ok.svg" alt="O" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/cancel_2.svg" alt="취소" /></p>
+						<p class="icon"><img src="images/svg/check_2.svg" alt="승인" /></p>
+						<p class="icon"><img src="images/svg/call.svg" alt="call" /></p>
+						<p class="icon"><img src="images/svg/thisweek_icon.svg" alt="thisweek_icon" /></p>
+						<p class="icon"><img src="images/svg/today_icon.svg" alt="today_icon" /></p>
+						<p class="icon"><img src="images/svg/state.gif" alt="응대중입니다." /></p>
+						<p class="icon"><img src="images/svg/state_2.gif" alt="응대중입니다." /></p>						
+						<p class="icon"><img src="images/svg/message.svg" alt="문자" /></p>						
+						<p class="icon"><img src="images/svg/search.svg" alt="검색" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/listen.svg" alt="미리듣기" /></p>
+						<p class="icon"><img src="images/svg/camera.svg" alt="사진추가" /></p>
+						<p class="icon"><img src="images/svg/camera_2.svg" alt="카메라" /></p>
+						<p class="icon"><img src="images/svg/arrow_down_mypage.svg" alt="▼" /></p>
+					</div>
+					<div class="h30"></div>
+					<div class="icon_list">
+						<p class="icon"><img src="images/svg/home.svg" alt="home" /></p>
+						<p class="icon"><img src="images/svg/list.svg" alt="처리할일" /></p>
+						<p class="icon"><img src="images/svg/response.svg" alt="응대내역" /></p>
+						<p class="icon"><img src="images/svg/mypage.svg" alt="마이페이지" /></p>
+					</div>
+				</div>
+			</div>
+			<!-- // Icon -->
+
+		</div>		
+
+	</div>
+  
+</body>
+</html>
