@@ -188,6 +188,7 @@
 				<p><img src="images/main_profile_guide.png" alt="main_profile_guide" /></p>
 				<div class="h81"></div>
 
+				<!--
 				<a name="login">
 				<h2>Login</h2>
 				<p><img src="images/login_guide.png" alt="login_guide" /></p>
@@ -208,6 +209,7 @@
 				<div class="h81"></div>
 				<p><img src="images/profile_img_select_guide.png" alt="profile_img_select_guide" /></p>
 				<div class="h81"></div>
+				-->
 			</div>
 			<!-- [e] page preview -->
 
