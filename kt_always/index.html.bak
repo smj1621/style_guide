@@ -249,7 +249,7 @@
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_digico.png" alt="kt_digico" /></p>
-					<p class="icon" style="padding-top:7px;"><img src="images/kt_logo.png" alt="kt_logo" /></p>
+					<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>
 					
 				</div>
 			</div>
