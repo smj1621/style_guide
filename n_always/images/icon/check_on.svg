@@ -4,7 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g>
+<<<<<<< HEAD
 	<rect x="0.567" y="0.567" fill="#2CBBB6" width="70.865" height="70.865"/>
 	<polygon fill="#FFFFFF" points="54.455,17.501 28.018,43.938 17.541,33.463 12.262,38.742 28.018,54.501 59.736,22.78 	"/>
+=======
+	<rect x="0.567" y="0.567" fill="#F16362" width="70.865" height="70.865"/>
+	<polygon fill="#FFFFFF" points="54.455,17.501 28.018,43.938 17.541,33.463 12.262,38.742 28.018,54.501 59.737,22.78 	"/>
+>>>>>>> ca8a13074ce47d2a1a6ebd79c10fd17724d94f97
 </g>
 </svg>
