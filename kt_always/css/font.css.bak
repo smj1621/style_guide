@@ -27,3 +27,9 @@
     url('https://cdn.jsdelivr.net/gh/spoqa/spoqa-han-sans@latest/Subset/SpoqaHanSansNeo/SpoqaHanSansNeo-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'KTfont';
+    font-weight: 300;
+    src: local('KTfontLight'),
+    url('../font/KTfontLight.ttf') format('ttf');
+}
