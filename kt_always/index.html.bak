@@ -205,6 +205,15 @@
 				<p><img src="images/join_alert_guide.png" alt="join_alert_guide" /></p>
 				<div class="h81"></div>
 
+				<a name="profile">
+				<h2>Profile</h2>
+				<p><img src="images/profile_guide.png" alt="profile_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/profile_alert_guide.png" alt="profile_alert_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/profile_img_select_guide.png" alt="profile_img_select_guide" /></p>
+				<div class="h81"></div>
+
 				<a name="terms">
 				<h2>Terms</h2>
 				<p><img src="images/terms_guide.png" alt="terms_guide" /></p>
@@ -215,16 +224,13 @@
 				<p><img src="images/setting_guide.png" alt="setting_guide" /></p>
 				<div class="h81"></div>
 
-				<!--
-				<a name="profile">
-				<h2>Profile</h2>
-				<p><img src="images/profile_guide.png" alt="profile_guide" /></p>
+				<a name="push">
+				<h2>Push</h2>
+				<p><img src="images/push_setting_guide.png" alt="push_setting_guide" /></p>
 				<div class="h81"></div>
-				<p><img src="images/profile_alert_guide.png" alt="profile_alert_guide" /></p>
-				<div class="h81"></div>
-				<p><img src="images/profile_img_select_guide.png" alt="profile_img_select_guide" /></p>
-				<div class="h81"></div>
-				-->
+
+				
+
 			</div>
 			<!-- [e] page preview -->
 
