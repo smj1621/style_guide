@@ -193,6 +193,7 @@
 				<h2>Login</h2>
 				<p><img src="images/login_guide.png" alt="login_guide" /></p>
 				<div class="h81"></div>
+				-->
 
 				<a name="join">
 				<h2>Member Join</h2>
@@ -201,6 +202,7 @@
 				<p><img src="images/join_alert_guide.png" alt="join_alert_guide" /></p>
 				<div class="h81"></div>
 
+				<!--
 				<a name="profile">
 				<h2>Profile</h2>
 				<p><img src="images/profile_guide.png" alt="profile_guide" /></p>
@@ -243,10 +245,15 @@
 					<p class="icon"><img src="images/icon/arrow-back.svg" alt="arrow_back" /></p>
 					<p class="icon"><img src="images/icon/arrow-right.svg" alt="arrow-right" /></p>
 					<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
-					<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>
+					<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>					
+					<!--p class="icon" style="margin-right:0;"><img src="images/icon/circle_check.svg" alt="circle_check" /></p-->
+				</div>
+				<div class="h40"></div>
+				<div class="icon_list">
 					<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
 					<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
-					<p class="icon" style="margin-right:0;"><img src="images/icon/circle_check.svg" alt="circle_check" /></p>
+					<p class="icon"><img src="images/icon/circle_check_noline.svg" alt="circle_check_noline" /></p>
+					<p class="icon"><img src="images/icon/circle_check_noline_off.svg" alt="circle_check_noline_off" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
