@@ -46,6 +46,9 @@
 							<a href="#login">login -</a>
 							<a href="#join">member join -</a>
 							<a href="#profile">profile -</a>
+							<a href="#terms">terms -</a>
+							<a href="#setting">setting -</a>
+							<a href="#push">push -</a>
 							<p style="height:40px;"></p>
 						</div>
 					</li>
@@ -202,6 +205,16 @@
 				<p><img src="images/join_alert_guide.png" alt="join_alert_guide" /></p>
 				<div class="h81"></div>
 
+				<a name="terms">
+				<h2>Terms</h2>
+				<p><img src="images/terms_guide.png" alt="terms_guide" /></p>
+				<div class="h81"></div>
+
+				<a name="setting">
+				<h2>Seeting</h2>
+				<p><img src="images/setting_guide.png" alt="setting_guide" /></p>
+				<div class="h81"></div>
+
 				<!--
 				<a name="profile">
 				<h2>Profile</h2>
@@ -252,8 +265,8 @@
 				<div class="icon_list">
 					<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
 					<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
-					<p class="icon"><img src="images/icon/circle_check_noline.svg" alt="circle_check_noline" /></p>
 					<p class="icon"><img src="images/icon/circle_check_noline_off.svg" alt="circle_check_noline_off" /></p>
+					<p class="icon"><img src="images/icon/circle_check_noline.svg" alt="circle_check_noline" /></p>					
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">

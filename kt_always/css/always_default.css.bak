@@ -33,14 +33,11 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 @font-face {font-family: 'S-CoreDream-5Medium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff') format('woff'); font-weight: normal; font-style: normal;}
 @font-face {font-family: 'S-CoreDream-7ExtraBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-7ExtraBold.woff') format('woff'); font-weight: normal; font-style: normal;}
 
-@font-face{font-family: 'KTL'; src:url('../font/KTL.ttf') format('ttf'); font-weight:normal; font-style:normal;}
-@font-face{font-family: 'KTM'; src:url('../font/KTM.ttf') format('ttf'); font-weight:normal; font-style:normal;}
-@font-face{font-family: 'KTB'; src:url('../font/KTB.ttf') format('ttf'); font-weight:normal; font-style:normal;}
 
 #wrap {width:100%; margin:auto;}
 #wrap:after {clear:both; display:block; content:'';}
 
-#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; min-height:1000px; padding-top:120px; padding-right:60px; position:fixed; position: -webkit-fixed;height:100%; overflow:auto;}
+#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; padding-top:70px; padding-right:60px; position:fixed; position: -webkit-fixed;height:100%; overflow:auto; }
 #navigation:after {clear:both; display:block; content:"";}
 .navi_box {float:right;}
 .navi_box p {font-size:18px; text-align:center; font-family: 'Spoqa Han Sans Regular', 'sans-serif'; height:24px; color:#707676;}
@@ -49,7 +46,7 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 .mainMenu{width: 100%; display: block; overflow: hidden; margin-top:72px; font-family: 'Play', sans-serif; text-align:right; font-size:18px;}
 .mainMenu a:hover {color:#212121;}
 .btn{display: block; height:48px; color: #707676; position: relative;}
-.subMenu a{display: block; padding: 20px 0; color: #a1a8a8; font-size: 16px; position: relative;}
+.subMenu a{display: block; padding: 12px 0; color: #a1a8a8; font-size: 16px; position: relative;}
 .subMenu a:after{content: ''; opacity: 0; transition: opacity 0.3s;}
 .subMenu a:hover{transition: all 0.3s; color:#212121;}
 .nav:target .subMenu{min-height:270px;}
