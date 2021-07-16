@@ -43,10 +43,10 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 .navi_box p {font-size:18px; text-align:center; font-family: 'Spoqa Han Sans Regular', 'sans-serif'; height:24px; color:#707676;}
 .selected {color:#212121;}
 
-.mainMenu{width: 100%; display: block; overflow: hidden; margin-top:72px; font-family: 'Play', sans-serif; text-align:right; font-size:18px;}
+.mainMenu{width: 100%; display: block; overflow: hidden; margin-top:54px; font-family: 'Play', sans-serif; text-align:right; font-size:18px;}
 .mainMenu a:hover {color:#212121;}
 .btn{display: block; height:48px; color: #707676; position: relative;}
-.subMenu a{display: block; padding: 12px 0; color: #a1a8a8; font-size: 16px; position: relative;}
+.subMenu a{display: block; padding: 10px 0; color: #a1a8a8; font-size: 16px; position: relative;}
 .subMenu a:after{content: ''; opacity: 0; transition: opacity 0.3s;}
 .subMenu a:hover{transition: all 0.3s; color:#212121;}
 .nav:target .subMenu{min-height:270px;}
