@@ -235,6 +235,10 @@
 				<div class="h81"></div>			
 				<p><img src="images/inquiry_write_guide.png" alt="inquiry_write_guide" /></p>
 				<div class="h81"></div>		
+				<p><img src="images/inquiry_view_guide.png" alt="inquiry_view_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/faq_guide.png" alt="faq_guide" /></p>
+				<div class="h81"></div>
 
 			</div>
 			<!-- [e] page preview -->
@@ -266,26 +270,33 @@
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
-					<p class="icon"><img src="images/icon/arrow-back.svg" alt="arrow_back" /></p>
-					<p class="icon"><img src="images/icon/arrow-right.svg" alt="arrow-right" /></p>
+					<p class="icon"><img src="images/icon/arrow_left2.svg" alt="arrow_left2" /></p>
+					<p class="icon"><img src="images/icon/arrow_right2.svg" alt="arrow_right2" /></p>
+					<p class="icon"><img src="images/icon/arrow_down.svg" alt="arrow_down" /></p>
+					<p class="icon"><img src="images/icon/arrow_up.svg" alt="arrow_up" /></p>
 					<p class="icon"><img src="images/icon/profile.svg" alt="profile" /></p>
 					<p class="icon"><img src="images/icon/camera.svg" alt="camera" /></p>		
-					<p class="icon"><img src="images/icon/question_color.svg" alt="qusestion_color" /></p>		
-					<p class="icon" style="margin-right:0;"><img src="images/icon/notice.svg" alt="notice" /></p>
+					<p class="icon" style="margin-right:0;"><img src="images/icon/question_color.svg" alt="qusestion_color" /></p>							
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon"><img src="images/icon/check_off.svg" alt="check_off" /></p>
 					<p class="icon"><img src="images/icon/check_on.svg" alt="check_on" /></p>
 					<p class="icon"><img src="images/icon/circle_check_noline_off.svg" alt="circle_check_noline_off" /></p>
-					<p class="icon"><img src="images/icon/circle_check_noline.svg" alt="circle_check_noline" /></p>					
+					<p class="icon"><img src="images/icon/circle_check_noline.svg" alt="circle_check_noline" /></p>		
+					<p class="icon"><img src="images/icon/notice.svg" alt="notice" /></p>
+					<p class="icon"><img src="images/icon/q_icon.svg" alt="q_icon" /></p>
+					<p class="icon" style="margin-right:0;"><img src="images/icon/a_icon.svg" alt="a_icon" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_digico.png" alt="kt_digico" /></p>
 					<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>
-					<p class="icon"><img src="images/kt_character.png" alt="kt_character" /></p>
-					
+				</div>
+				<div class="h40"></div>
+				<div class="icon_list">
+					<p class="icon_big"><img src="images/kt_character.png" alt="kt_character" /></p>
+					<p class="icon"><img src="images/motion.png" alt="motion" /></p>					
 				</div>
 			</div>
 			<div class="h81"></div>
