@@ -188,7 +188,7 @@
 				<h2>Main</h2>
 				<p><img src="images/main_guide.png" alt="main_guide" /></p>
 				<div class="h81"></div>
-				<p><img src="images/main_profile_guide.png" alt="main_profile_guide" /></p>
+				<p><img src="images/main_profile_guide2.png" alt="main_profile_guide" /></p>
 				<div class="h81"></div>
 
 				<a name="login">
@@ -215,6 +215,8 @@
 				<a name="terms">
 				<h2>Terms</h2>
 				<p><img src="images/terms_guide.png" alt="terms_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/terms_detail_guide.png" alt="terms_detail_guide" /></p>
 				<div class="h81"></div>
 
 				<a name="setting">
