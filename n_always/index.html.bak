@@ -11,7 +11,7 @@
 		@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap');
 		@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
 	</style>
-	<title>KT DIGICO Style Guide</title>
+	<title>KT DIGICO Style Guide -</title>
 </head>
 <body>
 
@@ -392,6 +392,8 @@
 				<p><img src="images/ocr_home_guide.png" alt="ocr_home_guide" /></p>
 				<div class="h81"></div>
 				<p><img src="images/ocr_home_alert_guide.png" alt="ocr_home_alert_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/ocr_scan_detail_guide.png" alt="ocr_scan_detail_guide" /></p>
 			</div>
 			<div class="h81"></div>
 			<div class="background">

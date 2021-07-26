@@ -37,7 +37,7 @@ h2 {text-align:left; font-family: 'Play', sans-serif; font-size:20px; height:30p
 #wrap {width:100%; margin:auto;}
 #wrap:after {clear:both; display:block; content:'';}
 
-#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; padding-top:70px; padding-right:60px; position:fixed; position: -webkit-fixed;height:100%; overflow:auto; }
+#navigation {width:290px; background-color:#f5f7f7; border-right:solid 1px #d3d6d6; padding-top:70px; padding-right:60px; position:fixed; position: -webkit-fixed;height:100%; overflow:auto; min-height:1500px; }
 #navigation:after {clear:both; display:block; content:"";}
 .navi_box {float:right;}
 .navi_box p {font-size:18px; text-align:center; font-family: 'Spoqa Han Sans Regular', 'sans-serif'; height:24px; color:#707676;}
