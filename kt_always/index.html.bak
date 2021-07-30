@@ -245,6 +245,10 @@
 				<h2>Works</h2>
 				<p><img src="images/works_list_guide.png" alt="works_list_guide" /></p>
 				<div class="h81"></div>
+				<p><img src="images/works_detail_img_guide.png" alt="works_detail_img_guide" /></p>
+				<div class="h81"></div>
+				<p><img src="images/works_detail_text_guide.png" alt="works_detail_text_guide" /></p>
+				<div class="h81"></div>
 
 				<a name="settings">
 				<h2>Settings</h2>
@@ -284,8 +288,6 @@
 					<p class="icon"><img src="images/icon/question.svg" alt="question" /></p>
 					<p class="icon"><img src="images/icon/scan_text.svg" alt="scan_text" /></p>
 					<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
-					<p class="icon"><img src="images/icon/man.svg" alt="man" /></p>
-					<p class="icon" style="margin-right:0;"><img src="images/icon/woman.svg" alt="woman" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
@@ -317,7 +319,11 @@
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_character.png" alt="kt_character" /></p>
-					<p class="icon"><img src="images/motion.png" alt="motion" /></p>					
+					<p class="icon_big"><img src="images/motion.png" alt="motion" /></p>			
+				</div>
+				<div class="icon_list">
+					<p class="icon_big"><img src="images/man.png" alt="man" /></p>
+					<p class="icon_big"><img src="images/woman.png" alt="woman" /></p>
 				</div>
 			</div>
 			<div class="h81"></div>
