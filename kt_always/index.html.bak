@@ -49,6 +49,7 @@
 							<a href="#policy">policy -</a>							
 							<a href="#supports">supports -</a>
 							<a href="#works">works -</a>
+							<a href="#health">health -</a>
 							<a href="#settings">settings -</a>
 							<p style="height:40px;"></p>
 						</div>
@@ -107,6 +108,15 @@
 					<p class="color_name">navy</p>
 				</div>
 				<div class="color_tip">
+					<p class="blue">
+						#2375BC<br /><br />
+						RGB<br />
+						: 35, 117, 188
+					</p>
+					<p class="color_name">blue</p>
+				</div>
+				<div class="h81"></div>
+				<div class="color_tip">
 					<p class="dark_gray">
 						#808080<br /><br />
 						RGB<br />
@@ -121,6 +131,14 @@
 						: 191, 191, 191
 					</p>
 					<p class="color_name">gray</p>
+				</div>
+				<div class="color_tip">
+					<p class="m_gray">
+						#E6E7E7<br /><br />
+						RGB<br />
+						: 231, 230, 230
+					</p>
+					<p class="color_name">m_gray</p>
 				</div>
 				<div class="color_tip">
 					<p class="light_gray">
@@ -250,6 +268,11 @@
 				<p><img src="images/works_detail_text_guide.png" alt="works_detail_text_guide" /></p>
 				<div class="h81"></div>
 
+				<a name="health">
+				<h2>Health</h2>
+				<p><img src="images/health_walking_guide.png" alt="health_walking_guide" /></p>
+				<div class="h81"></div>
+
 				<a name="settings">
 				<h2>Settings</h2>
 				<p><img src="images/setting_guide.png" alt="setting_guide" /></p>
@@ -320,10 +343,13 @@
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_character.png" alt="kt_character" /></p>
 					<p class="icon_big"><img src="images/motion.png" alt="motion" /></p>			
+					<p class="icon_big"><img src="images/woman.png" alt="woman" /></p>
+
 				</div>
+				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/man.png" alt="man" /></p>
-					<p class="icon_big"><img src="images/woman.png" alt="woman" /></p>
+					<p class="icon_big"><img src="images/walking.png" alt="walking" /></p>
 				</div>
 			</div>
 			<div class="h81"></div>
