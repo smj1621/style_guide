@@ -272,6 +272,8 @@
 				<h2>Health</h2>
 				<p><img src="images/health_walking_guide.png" alt="health_walking_guide" /></p>
 				<div class="h81"></div>
+				<p><img src="images/health_myroad_list_guide.png" alt="health_myroad_list_guide" /></p>
+				<div class="h81"></div>
 
 				<a name="settings">
 				<h2>Settings</h2>
@@ -311,6 +313,8 @@
 					<p class="icon"><img src="images/icon/question.svg" alt="question" /></p>
 					<p class="icon"><img src="images/icon/scan_text.svg" alt="scan_text" /></p>
 					<p class="icon"><img src="images/icon/user.svg" alt="user" /></p>
+					<p class="icon"><img src="images/icon/minus.svg" alt="minus" /></p>
+					<p class="icon" style="margin-right:0;"><img src="images/icon/plus.svg" alt="plus" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
@@ -334,22 +338,25 @@
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
+					<p class="icon"><img src="images/icon/marker.svg" alt="marker" /></p>
+					<p class="icon"><img src="images/icon/clock.svg" alt="clock" /></p>
+					<p class="icon"><img src="images/icon/road.svg" alt="road" /></p>
+				</div>
+				<div class="h40"></div>
+				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_digico.png" alt="kt_digico" /></p>
-					<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>
-					<p class="icon"><img src="images/icon/minus.svg" alt="minus" /></p>
-					<p class="icon"><img src="images/icon/plus.svg" alt="plus" /></p>
+					<p class="icon"><img src="images/kt_logo.png" alt="kt_logo" /></p>					
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/kt_character.png" alt="kt_character" /></p>
-					<p class="icon_big"><img src="images/motion.png" alt="motion" /></p>			
-					<p class="icon_big"><img src="images/woman.png" alt="woman" /></p>
-
+					<p class="icon_big"><img src="images/motion.png" alt="motion" /></p>
+					<p class="icon_big"><img src="images/walking.png" alt="walking" /></p>
 				</div>
 				<div class="h40"></div>
 				<div class="icon_list">
 					<p class="icon_big"><img src="images/man.png" alt="man" /></p>
-					<p class="icon_big"><img src="images/walking.png" alt="walking" /></p>
+					<p class="icon_big"><img src="images/woman.png" alt="woman" /></p>					
 				</div>
 			</div>
 			<div class="h81"></div>
